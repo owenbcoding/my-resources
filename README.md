@@ -4,7 +4,7 @@ I made this list so I can share with fellow developers I hope you enjoy :).
 I Try to look for as many free stuff as possible to help people who are struggeling.
 But there are lots of stuff you can pay for also for thats not that expensive. 
 
-## Usefull Websites / 
+## Useful Websites / 
 * A Raod map for beginners https://roadmap.sh/
 * Freecodecamp https://www.freecodecamp.org/
 * Udemy https://www.udemy.com/ ( A place you can buy cheap course for life time :) ) 
