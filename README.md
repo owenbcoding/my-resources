@@ -13,7 +13,7 @@ But there are lots of stuff you can pay for also for thats not that expensive.
 * Dev.to https://dev.to/ ( A good place to search for projects )
 * Figma https://www.figma.com/ ( For UI and UX design )
 * Git Lab https://lab.github.com/ ( For learning how to use github )
-* Laracast https://laracasts.com/ ( A Freelearning site for laravel )
+* Laracast https://laracasts.com/ ( A Free learning site for laravel )
 * Vue Mastery https://www.vuemastery.com/ ( A free learning site for learning Vue js )
 * Code Accademy https://www.codecademy.com/ ( subscription paid learning )
 * Code Institute https://codeinstitute.net/full-stack-software-development-diploma/ ( A Paid full stack Diploma Course ) 
