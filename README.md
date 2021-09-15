@@ -83,7 +83,7 @@ But there are lots of stuff you can pay for also for thats not that expensive.
 * CSS Grid https://grid.malven.co/ 
 * CSS Grid https://css-tricks.com/snippets/css/complete-guide-grid/
 
-## Learn how to become a ethical-hacker bellow :) 
+## Learn to become anethical-hacker!
 * Null Byte also on youtube great tutorials https://null-byte.wonderhowto.com/
 * If you want to learn the basics of I.T  https://tryhackme.com/dashboard ( For full benifits pay 10 per month )
 * For more advanced hacking https://app.hackthebox.eu/
