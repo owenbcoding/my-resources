@@ -92,6 +92,7 @@ But there are lots of stuff you can pay for also for thats not that expensive.
 * Black Arch Linux Distro https://blackarch.org/ 
 * Hack this site https://www.hackthissite.org/ 
 * A list of Hackers and twitch streamers https://hacklistx.github.io/ 
+* Info sec hack list https://infosecstreams.github.io/
 * More hacking resources https://inventory.raw.pm/resources.html 
 * Hacking Challenges https://potatopla.net/crypto/ 
 
