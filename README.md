@@ -40,6 +40,7 @@ But there are lots of stuff you can pay for also for thats not that expensive.
 * Free Stock videos https://coverr.co/ / https://www.videezy.com/ / https://www.lifeofvids.com/ / https://www.videvo.net/stock-video-footage/ / https://sproutvideo.com/
 * Free stock music https://www.free-stock-music.com/ / https://www.bensound.com/ https://mixkit.co/free-stock-music/ / https://freemusicarchive.org/ / 
 * Free vector art https://www.vecteezy.com/ / https://www.freepik.com/ / https://www.freevectors.net/ / https://pngtree.com/free-vectors / https://www.vector4free.com/ / https://lukaszadam.com/ / https://illlustrations.co/ / https://clipartkind.com/ / https://growwwkit.com/illustrations/phonies / https://trianglify.io/ / https://www.hiclipart.com/ / https://storyset.com/ / https://www.blackillustrations.com/ / https://delesign.com/free-designs/graphics / https://www.shapedivider.app/ / https://smart.servier.com/ / https://svgwave.in/ / https://www.heritagetype.com/pages/free-vintage-illustrations /https://robohash.org/ / https://tabbied.com/ / https://app.haikei.app/ 
+* Check if a website is safe or not https://www.virustotal.com/gui/home/upload
 
 ## Streaming setup for twitch 
 * Download Streamelements obs for real time twitch alerts https://streamelements.com/
