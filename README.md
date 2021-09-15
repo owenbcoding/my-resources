@@ -26,7 +26,7 @@ But there are lots of stuff you can pay for also for thats not that expensive.
 * Mobaxterm Server file viewer https://mobaxterm.mobatek.net/
 * A random word picker if you cant make up your mind on a name or project https://wheelofnames.com/
 * For web hosting https://www.bluehost.com/web-hosting/signup 
-* A bunch of random project https://www.programcreek.com/
+* A bunch of random projects https://www.programcreek.com/
 * Finding code explinations https://developer.mozilla.org/
 * More explinations for code https://www.w3schools.com/ 
 * Another learning platform https://www.udacity.com/
@@ -39,6 +39,7 @@ But there are lots of stuff you can pay for also for thats not that expensive.
 * For Free images https://www.pexels.com/ / https://unsplash.com/ / https://pixabay.com/ / https://www.splitshire.com/
 * Free Stock videos https://coverr.co/ / https://www.videezy.com/ / https://www.lifeofvids.com/ / https://www.videvo.net/stock-video-footage/ / https://sproutvideo.com/
 * Free stock music https://www.free-stock-music.com/ / https://www.bensound.com/ https://mixkit.co/free-stock-music/ / https://freemusicarchive.org/ / 
+* Free vector art https://www.vecteezy.com/ / https://www.freepik.com/ / https://www.freevectors.net/ / https://pngtree.com/free-vectors / https://www.vector4free.com/ / https://lukaszadam.com/ / https://illlustrations.co/ / https://clipartkind.com/ / https://growwwkit.com/illustrations/phonies / https://trianglify.io/ / https://www.hiclipart.com/ / https://storyset.com/ / https://www.blackillustrations.com/ / https://delesign.com/free-designs/graphics / https://www.shapedivider.app/ / https://smart.servier.com/ / https://svgwave.in/ / https://www.heritagetype.com/pages/free-vintage-illustrations /https://robohash.org/ / https://tabbied.com/ / https://app.haikei.app/ 
 
 ## Streaming setup for twitch 
 * Download Streamelements obs for real time twitch alerts https://streamelements.com/
@@ -79,7 +80,8 @@ But there are lots of stuff you can pay for also for thats not that expensive.
 * CSS BUTTON Generator https://www.bestcssbuttongenerator.com/ 
 * CSS Hex Color Picker https://hexcolorcodes.org/ 
 * CSS Image color picker https://image-color.com/
-* 
+* CSS Grid https://grid.malven.co/ 
+* CSS Grid https://css-tricks.com/snippets/css/complete-guide-grid/
 
 ## Learn how to become a ethical-hacker bellow :) 
 * Null Byte also on youtube great tutorials https://null-byte.wonderhowto.com/
