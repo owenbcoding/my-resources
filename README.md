@@ -70,6 +70,7 @@ But there are lots of stuff you can pay for also for thats not that expensive.
 * Favicon Generator https://favicon.io/
 * Another Favicon Generator https://realfavicongenerator.net/ 
 * Flaticon https://www.flaticon.com/ 
+* A color picker https://colorpicker.fr/
 
 ## CSS 
 * Css Tricks https://css-tricks.com/ 
@@ -83,6 +84,51 @@ But there are lots of stuff you can pay for also for thats not that expensive.
 * CSS Image color picker https://image-color.com/
 * CSS Grid https://grid.malven.co/ 
 * CSS Grid https://css-tricks.com/snippets/css/complete-guide-grid/
+* CSS Animate https://animate.style/
+* CSS magic https://www.minimamente.com/project/magic/
+* CSS Shake https://elrumordelaluz.github.io/csshake/ 
+* CSS Zdog https://zzz.dog/ 
+* CSS Hover https://ianlunn.github.io/Hover/ 
+* CSS Hamburgers https://jonsuh.com/hamburgers/
+
+## Javascript-Stuff 
+* Slide show in js https://www.c-sharpcorner.com/article/creating-an-image-slider-using-javascript-html-and-css-only/
+* High Proformance animations https://greensock.com/
+* Nice js animations https://github.com/alexfoxy/lax.js 
+* Relax js https://github.com/dixonandmoe/rellax
+* ThreeJS https://threejs.org/ ( 3D library for js ) 
+* Wow js https://wowjs.uk/ 
+* Animate on scroll https://michalsnik.github.io/aos/ 
+* Tilt js https://gijsroge.github.io/tilt.js/ 
+* Annotate js https://roughnotation.com/ 
+* Particles js https://vincentgarreau.com/particles.js/ 
+* Mojs https://mojs.github.io/
+* Light box js https://lokeshdhakar.com/projects/lightbox2/
+* Another slide show effect https://kenwheeler.github.io/slick/
+* Barba js https://barba.js.org/
+* Locomotive js https://locomotivemtl.github.io/locomotive-scroll/ 
+* Owl https://owlcarousel2.github.io/OwlCarousel2/
+* Swipe cards js https://swiperjs.com/ 
+* Splide js https://splidejs.com/ 
+* Parallax js https://simpleparallax.com/
+* Kute js https://thednp.github.io/kute.js/
+* granim js https://sarcadass.github.io/granim.js/index.html
+* Popmotion js https://popmotion.io/
+* Vivus js https://maxwellito.github.io/vivus/
+* Typed js https://mattboldt.com/demos/typed-js/
+* Progress bar js https://kimmobrunfeldt.github.io/progressbar.js/
+
+## Ui Components
+
+## Other-Stuff 
+* A free photo editor https://www.inpixio.com/free-photo-editor/
+* Anijs https://anijs.github.io/
+* Sequenece js https://www.sequencejs.com/
+* Motion Ui https://zurb.com/playground/motion-ui
+* Keyframes app https://keyframes.app/ 
+* SVG https://svgartista.net/
+* Jh3y https://github.com/jh3y/whirl 
+* AnimXYZ https://animxyz.com/ 
 
 ## Learn to become anethical-hacker!
 * Null Byte also on youtube great tutorials https://null-byte.wonderhowto.com/
