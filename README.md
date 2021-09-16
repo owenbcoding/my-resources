@@ -133,6 +133,7 @@ But there are lots of stuff you can pay for also for thats not that expensive.
 * Adding Ui Components soon!.
 
 ## Other-Stuff
+* A Crypto learning site https://buildspace.so/
 * learn how discord bots work https://www.writebots.com/ 
 * A free photo editor https://www.inpixio.com/free-photo-editor/
 * Anijs https://anijs.github.io/
