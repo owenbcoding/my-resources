@@ -6,6 +6,7 @@ But there are lots of stuff you can pay for also for thats not that expensive.
 I will also be updating this repo regularly so stay tuned!. 
 
 # Table of Context 
+* Will add table of context soon :) stat tuned!.
 <!--
 <h6 id="Useful-websites">Useful-Websites!<a href="#Useful-websites"></a></h6> 
 <h6 id="Copyright-free-stuff!">Copyright-free-stuff!<a href="#Copyright-free-stuff!"></a></h6>
