@@ -6,7 +6,7 @@ But there are lots of stuff you can pay for also for thats not that expensive.
 
 # Table of Context 
 
-## Useful Websites / 
+## Useful Websites!
 * A Raod map for beginners https://roadmap.sh/
 * Free code camp https://www.freecodecamp.org/
 * Udemy https://www.udemy.com/ ( A place you can buy cheap course for life time :) ) 
@@ -41,33 +41,33 @@ But there are lots of stuff you can pay for also for thats not that expensive.
 * Check if a website is safe or not https://www.virustotal.com/gui/home/upload
 * Golang https://golang.org/
 
-## Copyright Free Stuff
+## Copyright Free Stuff!
 * For Free images https://www.pexels.com/ / https://unsplash.com/ / https://pixabay.com/ / https://www.splitshire.com/
 * Free Stock videos https://coverr.co/ / https://www.videezy.com/ / https://www.lifeofvids.com/ / https://www.videvo.net/stock-video-footage/ / https://sproutvideo.com/
 * Free stock music https://www.free-stock-music.com/ / https://www.bensound.com/ https://mixkit.co/free-stock-music/ / https://freemusicarchive.org/ / 
 * Free vector art https://www.vecteezy.com/ / https://www.freepik.com/ / https://www.freevectors.net/ / https://pngtree.com/free-vectors / https://www.vector4free.com/ / https://lukaszadam.com/ / https://illlustrations.co/ / https://clipartkind.com/ / https://growwwkit.com/illustrations/phonies / https://trianglify.io/ / https://www.hiclipart.com/ / https://storyset.com/ / https://www.blackillustrations.com/ / https://delesign.com/free-designs/graphics / https://www.shapedivider.app/ / https://smart.servier.com/ / https://svgwave.in/ / https://www.heritagetype.com/pages/free-vintage-illustrations /https://robohash.org/ / https://tabbied.com/ / https://app.haikei.app/ 
 
-## Streaming setup for twitch 
+## Streaming setup for twitch!
 * Download Streamelements obs for real time twitch alerts https://streamelements.com/
 * Stream Bitrate Set up for OBS https://blog.mobcrush.com/how-to-choose-the-right-bitrate-for-your-stream-9864ce322a9b 
 * For OBS Green Screen https://github.com/nhtua/greencam / https://github.com/nhtua/greencam/blob/main/docs/the-easiest-way-to-use-greencam.md
 * Stream Parrot https://streamparrot.com/ ( this is a custom chat overlay for twitch ) 
 
-## Website Development Sites
+## Website Development Sites!
 
-## Online Text Eeditors
+## Online Text Eeditors!
 * Replit a online Browser text editor https://replit.com/ 
 * Codeply HTML - CSS & Js Editor https://www.codeply.com/
 * Code Sand box A browser text editor https://codesandbox.io/
 * Code pen another browser playground https://codepen.io/ 
 * A playground for practicing js https://jsbin.com/
 
-## Online Learning exercises
+## Online Learning exercises!
 * For practicing your code https://www.hackerrank.com/
 * A Compeditive way to learn code with challeneges https://www.codewars.com/
 * Another website for learning js https://www.learn-js.org/ 
 
-## HTML STUFF 
+## HTML STUFF!
 * More explinations for code https://www.w3schools.com/ 
 * A HTML Learning Site https://htmlg.com/html-editor/
 * The Odin project https://www.theodinproject.com/ ( A free Website learning course )
@@ -83,7 +83,7 @@ But there are lots of stuff you can pay for also for thats not that expensive.
 * Flaticon https://www.flaticon.com/ 
 * A color picker https://colorpicker.fr/
 
-## CSS 
+## CSS!
 * CSS Tailwind CSS https://tailwindcss.com/
 * Css Tricks https://css-tricks.com/ 
 * Some CSS reources https://medium.com/level-up-web/100-css-resources-for-web-designers-and-developers-c060bed7a362 
@@ -130,10 +130,10 @@ But there are lots of stuff you can pay for also for thats not that expensive.
 * Typed js https://mattboldt.com/demos/typed-js/
 * Progress bar js https://kimmobrunfeldt.github.io/progressbar.js/
 
-## Ui Components
-* Adding Ui Components soon!.
+## Ui Components!
+* Adding Ui Components soon!. Stay tuned
 
-## Other-Stuff
+## Other-Stuff! 
 * A Crypto learning site https://buildspace.so/
 * learn how discord bots work https://www.writebots.com/ 
 * A free photo editor https://www.inpixio.com/free-photo-editor/
