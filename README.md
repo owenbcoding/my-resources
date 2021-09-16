@@ -12,7 +12,7 @@ I will also be updating this repo regularly so stay tuned!.
 <h6 id="Streaming-setup!">Streaming-setup!<a href="#Streaming-setup!"></a></h6> 
 <h6 id="Website-Development-Sites!">Website-Development-Sites!<a href="#Website-Development-Sites!"></a></h6>
 -->
-<h6 id="Ethical-hacking!">::before"Ethical-hacking!"Ethical-hacking!<a href="#Ethical-hacking!"></a></h6> 
+<h6 id="Ethical-hacking">::before"Ethical-hacking!"Ethical-hacking!<a href="#Ethical-hacking!"></a></h6> 
 
 
 ## Useful-websites!
@@ -155,7 +155,7 @@ I will also be updating this repo regularly so stay tuned!.
 * Jh3y https://github.com/jh3y/whirl 
 * AnimXYZ https://animxyz.com/ 
 
-## Ethical-hacking!
+##Ethical-hacking
 * Null Byte also on youtube great tutorials https://null-byte.wonderhowto.com/
 * If you want to learn the basics of I.T  https://tryhackme.com/dashboard ( For full benifits pay 10 per month )
 * For more advanced hacking https://app.hackthebox.eu/
