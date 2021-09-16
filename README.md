@@ -6,70 +6,70 @@ But there are lots of stuff you can pay for also for thats not that expensive.
 I will also be updating this repo regularly so stay tuned!. 
 
 # Table of Context 
-<Useful Website!>
+<h2 id="Useful-websites"><a href="Useful-websites"></a></h2>
 
-## Useful Websites!
-* A Raod map for beginners https://roadmap.sh/
-* Free code camp https://www.freecodecamp.org/
-* Udemy https://www.udemy.com/ ( A place you can buy cheap course for life time :) ) 
-* CodeSignal https://app.codesignal.com/
-* Frontend mentor https://www.frontendmentor.io/challenges
-* Dev.to https://dev.to/ ( A good place to search for projects )
-* Figma https://www.figma.com/ ( For UI and UX design )
-* Git Lab https://lab.github.com/ ( For learning how to use github )
-* Laracast https://laracasts.com/ ( A Free learning site for laravel )
-* Vue Mastery https://www.vuemastery.com/ ( A free learning site for learning Vue js )
-* Code Accademy https://www.codecademy.com/ ( subscription paid learning )
-* Code Institute https://codeinstitute.net/full-stack-software-development-diploma/ ( A Paid full stack Diploma Course ) 
-* Team Treehouse https://teamtreehouse.com/ ( A Montley Subscription for learning to code )
-* Brilliant a great learning site https://brilliant.org/courses/ ( For full benifits pay 10 per month )
-* Notion A task managment software https://www.notion.so/desktop
-* Project managment site https://trello.com/ 
-* Shortcut like trello on steroids https://app.shortcut.com/
-* Gamge development https://learn.unity.com/ 
-* Mobaxterm Server file viewer https://mobaxterm.mobatek.net/
-* A random word picker if you cant make up your mind on a name or project https://wheelofnames.com/
-* For web hosting https://www.bluehost.com/web-hosting/signup 
-* A bunch of random projects https://www.programcreek.com/
-* Finding code explinations https://developer.mozilla.org/
-* More explinations for code https://www.w3schools.com/ 
-* Another learning platform https://www.udacity.com/
-* A coding game https://www.codingame.com/start 
-* For designers to post their art work https://www.deviantart.com/ 
-* For learning javascript effects https://threejs.org/
-* For Practicing code https://leetcode.com/ 
-* For dummy images https://placeimg.com/
-* Just some Docs https://devdocs.io/ 
-* Check if a website is safe or not https://www.virustotal.com/gui/home/upload
-* Golang https://golang.org/
+## Useful-websites!
+- A Raod map for beginners https://roadmap.sh/
+- Free code camp https://www.freecodecamp.org/
+- Udemy https://www.udemy.com/ ( A place you can buy cheap course for life time :) ) 
+- CodeSignal https://app.codesignal.com/
+- Frontend mentor https://www.frontendmentor.io/challenges
+- Dev.to https://dev.to/ ( A good place to search for projects )
+- Figma https://www.figma.com/ ( For UI and UX design )
+- Git Lab https://lab.github.com/ ( For learning how to use github )
+- Laracast https://laracasts.com/ ( A Free learning site for laravel )
+- Vue Mastery https://www.vuemastery.com/ ( A free learning site for learning Vue js )
+- Code Accademy https://www.codecademy.com/ ( subscription paid learning )
+- Code Institute https://codeinstitute.net/full-stack-software-development-diploma/ ( A Paid full stack Diploma Course ) 
+- Team Treehouse https://teamtreehouse.com/ ( A Montley Subscription for learning to code )
+- Brilliant a great learning site https://brilliant.org/courses/ ( For full benifits pay 10 per month )
+- Notion A task managment software https://www.notion.so/desktop
+- Project managment site https://trello.com/ 
+- Shortcut like trello on steroids https://app.shortcut.com/
+- Gamge development https://learn.unity.com/ 
+- Mobaxterm Server file viewer https://mobaxterm.mobatek.net/
+- A random word picker if you cant make up your mind on a name or project https://wheelofnames.com/
+- For web hosting https://www.bluehost.com/web-hosting/signup 
+- A bunch of random projects https://www.programcreek.com/
+- Finding code explinations https://developer.mozilla.org/
+- More explinations for code https://www.w3schools.com/ 
+- Another learning platform https://www.udacity.com/
+- A coding game https://www.codingame.com/start 
+- For designers to post their art work https://www.deviantart.com/ 
+- For learning javascript effects https://threejs.org/
+- For Practicing code https://leetcode.com/ 
+- For dummy images https://placeimg.com/
+- Just some Docs https://devdocs.io/ 
+- Check if a website is safe or not https://www.virustotal.com/gui/home/upload
+- Golang https://golang.org/
 
-## Copyright Free Stuff!
-* For Free images https://www.pexels.com/ / https://unsplash.com/ / https://pixabay.com/ / https://www.splitshire.com/
-* Free Stock videos https://coverr.co/ / https://www.videezy.com/ / https://www.lifeofvids.com/ / https://www.videvo.net/stock-video-footage/ / https://sproutvideo.com/
-* Free stock music https://www.free-stock-music.com/ / https://www.bensound.com/ https://mixkit.co/free-stock-music/ / https://freemusicarchive.org/ / 
-* Free vector art https://www.vecteezy.com/ / https://www.freepik.com/ / https://www.freevectors.net/ / https://pngtree.com/free-vectors / https://www.vector4free.com/ / https://lukaszadam.com/ / https://illlustrations.co/ / https://clipartkind.com/ / https://growwwkit.com/illustrations/phonies / https://trianglify.io/ / https://www.hiclipart.com/ / https://storyset.com/ / https://www.blackillustrations.com/ / https://delesign.com/free-designs/graphics / https://www.shapedivider.app/ / https://smart.servier.com/ / https://svgwave.in/ / https://www.heritagetype.com/pages/free-vintage-illustrations /https://robohash.org/ / https://tabbied.com/ / https://app.haikei.app/ 
+## Copyright-free-stuff!
+- For Free images https://www.pexels.com/ / https://unsplash.com/ / https://pixabay.com/ / https://www.splitshire.com/
+- Free Stock videos https://coverr.co/ / https://www.videezy.com/ / https://www.lifeofvids.com/ / https://www.videvo.net/stock-video-footage/ / https://sproutvideo.com/
+- Free stock music https://www.free-stock-music.com/ / https://www.bensound.com/ https://mixkit.co/free-stock-music/ / https://freemusicarchive.org/ / 
+- Free vector art https://www.vecteezy.com/ / https://www.freepik.com/ / https://www.freevectors.net/ / https://pngtree.com/free-vectors / https://www.vector4free.com/ / https://lukaszadam.com/ / https://illlustrations.co/ / https://clipartkind.com/ / https://growwwkit.com/illustrations/phonies / https://trianglify.io/ / https://www.hiclipart.com/ / https://storyset.com/ / https://www.blackillustrations.com/ / https://delesign.com/free-designs/graphics / https://www.shapedivider.app/ / https://smart.servier.com/ / https://svgwave.in/ / https://www.heritagetype.com/pages/free-vintage-illustrations /https://robohash.org/ / https://tabbied.com/ / https://app.haikei.app/ 
 
-## Streaming setup for twitch!
-* Download Streamelements obs for real time twitch alerts https://streamelements.com/
-* Stream Bitrate Set up for OBS https://blog.mobcrush.com/how-to-choose-the-right-bitrate-for-your-stream-9864ce322a9b 
-* For OBS Green Screen https://github.com/nhtua/greencam / https://github.com/nhtua/greencam/blob/main/docs/the-easiest-way-to-use-greencam.md
-* Stream Parrot https://streamparrot.com/ ( this is a custom chat overlay for twitch ) 
+## Streaming-setup!
+- Download Streamelements obs for real time twitch alerts https://streamelements.com/
+- Stream Bitrate Set up for OBS https://blog.mobcrush.com/how-to-choose-the-right-bitrate-for-your-stream-9864ce322a9b 
+- For OBS Green Screen https://github.com/nhtua/greencam / https://github.com/nhtua/greencam/blob/main/docs/the-easiest-way-to-use-greencam.md
+- Stream Parrot https://streamparrot.com/ ( this is a custom chat overlay for twitch ) 
 
-## Website Development Sites!
+## Website-Development-Sites!
 
-## Online Text Eeditors!
-* Replit a online Browser text editor https://replit.com/ 
-* Codeply HTML - CSS & Js Editor https://www.codeply.com/
-* Code Sand box A browser text editor https://codesandbox.io/
-* Code pen another browser playground https://codepen.io/ 
-* A playground for practicing js https://jsbin.com/
+## Online-Text-Eeditors!
+- Replit a online Browser text editor https://replit.com/ 
+- Codeply HTML - CSS & Js Editor https://www.codeply.com/
+- Code Sand box A browser text editor https://codesandbox.io/
+- Code pen another browser playground https://codepen.io/ 
+- A playground for practicing js https://jsbin.com/
 
-## Online Learning exercises!
-* For practicing your code https://www.hackerrank.com/
-* A Compeditive way to learn code with challeneges https://www.codewars.com/
-* Another website for learning js https://www.learn-js.org/ 
+## Online-Learning-exercises!
+- For practicing your code https://www.hackerrank.com/
+- A Compeditive way to learn code with challeneges https://www.codewars.com/
+- Another website for learning js https://www.learn-js.org/ 
 
-## HTML STUFF!
+## HTML-STUFF!
 * More explinations for code https://www.w3schools.com/ 
 * A HTML Learning Site https://htmlg.com/html-editor/
 * The Odin project https://www.theodinproject.com/ ( A free Website learning course )
