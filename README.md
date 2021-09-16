@@ -84,6 +84,7 @@ But there are lots of stuff you can pay for also for thats not that expensive.
 * A color picker https://colorpicker.fr/
 
 ## CSS 
+* CSS Tailwind CSS https://tailwindcss.com/
 * Css Tricks https://css-tricks.com/ 
 * Some CSS reources https://medium.com/level-up-web/100-css-resources-for-web-designers-and-developers-c060bed7a362 
 * More resources https://www.smashingmagazine.com/2006/09/list-of-css-tools/
