@@ -6,7 +6,12 @@ But there are lots of stuff you can pay for also for thats not that expensive.
 I will also be updating this repo regularly so stay tuned!. 
 
 # Table of Context 
-<h4 id="Useful-websites">Useful-Websites!<a href="Useful-websites"></a></h4> . <h4 id="Copyright-free-stuff!">Copyright-free-stuff!<a href="Copyright-free-stuff!"></a></h4>
+<h4 id="Useful-websites">Useful-Websites!<a href="Useful-websites"></a></h4> 
+<h4 id="Copyright-free-stuff!">Copyright-free-stuff!<a href="Copyright-free-stuff!"></a></h4>
+<h4 id="Streaming-setup!">Useful-Websites!<a href="Streaming-setup!"></a></h4> 
+<h4 id="Website-Development-Sites!">Website-Development-Sites!<a href="Website-Development-Sites!"></a></h4> 
+<h4 id="Ethical-hacking!">Ethical-hacking!<a href="Ethical-hacking!"></a></h4> 
+
 
 ## Useful-websites!
 - A Raod map for beginners https://roadmap.sh/
@@ -147,7 +152,7 @@ I will also be updating this repo regularly so stay tuned!.
 * Jh3y https://github.com/jh3y/whirl 
 * AnimXYZ https://animxyz.com/ 
 
-## Learn to become a ethical-hacker!
+## Ethical-hacking!
 * Null Byte also on youtube great tutorials https://null-byte.wonderhowto.com/
 * If you want to learn the basics of I.T  https://tryhackme.com/dashboard ( For full benifits pay 10 per month )
 * For more advanced hacking https://app.hackthebox.eu/
