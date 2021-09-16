@@ -133,7 +133,7 @@ But there are lots of stuff you can pay for also for thats not that expensive.
 * Jh3y https://github.com/jh3y/whirl 
 * AnimXYZ https://animxyz.com/ 
 
-## Learn to become an ethical-hacker!
+## Learn to become a ethical-hacker!
 * Null Byte also on youtube great tutorials https://null-byte.wonderhowto.com/
 * If you want to learn the basics of I.T  https://tryhackme.com/dashboard ( For full benifits pay 10 per month )
 * For more advanced hacking https://app.hackthebox.eu/
