@@ -12,8 +12,6 @@ I will also be updating this repo regularly so stay tuned!.
 <h6 id="Streaming-setup!">Streaming-setup!<a href="#Streaming-setup!"></a></h6> 
 <h6 id="Website-Development-Sites!">Website-Development-Sites!<a href="#Website-Development-Sites!"></a></h6>
 -->
-<h6 id="Ethical-hacking">Ethical-hacking!<a href="#Ethical-hacking!"></a></h6> 
-
 
 ## Useful-websites!
 - Github docs https://docs.gitlab.com/
