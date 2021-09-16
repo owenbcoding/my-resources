@@ -6,8 +6,7 @@ But there are lots of stuff you can pay for also for thats not that expensive.
 I will also be updating this repo regularly so stay tuned!. 
 
 # Table of Context 
-* <a href="#Usefull Websites!">Useful Websites!</a>
-* <a href="#Copyright Free Stuff!">Copyright Free Stuff!</a>
+[Useful Websites!](Useful Websites!)
 
 ## Useful Websites!
 * A Raod map for beginners https://roadmap.sh/
