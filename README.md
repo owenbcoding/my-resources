@@ -130,6 +130,7 @@ But there are lots of stuff you can pay for also for thats not that expensive.
 * Progress bar js https://kimmobrunfeldt.github.io/progressbar.js/
 
 ## Ui Components
+* Adding Ui Components soon!.
 
 ## Other-Stuff
 * learn how discord bots work https://www.writebots.com/ 
