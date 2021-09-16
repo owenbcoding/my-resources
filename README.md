@@ -7,6 +7,7 @@ I will also be updating this repo regularly so stay tuned!.
 
 # Table of Context 
 * <a href="#Usefull Websites!">Useful Websites!</a>
+* <a href="#Copyright Free Stuff!">Copyright Free Stuff!</a>
 
 ## Useful Websites!
 * A Raod map for beginners https://roadmap.sh/
