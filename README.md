@@ -1,5 +1,5 @@
 # My-Resources
-This a list of the websites I use on a daily bases.
+This is a list of the websites I use on a daily bases.
 I made this list so I can share with fellow developers I hope you enjoy :).
 I Try to look for as many free stuff as possible to help people who are struggeling.
 But there are lots of stuff you can pay for also for thats not that expensive. 
