@@ -72,6 +72,7 @@ I will also be updating this repo regularly so stay tuned!.
 - Code Sand box A browser text editor https://codesandbox.io/
 - Code pen another browser playground https://codepen.io/ 
 - A playground for practicing js https://jsbin.com/
+- A easy paste bin for code https://pastebin.com/
 
 ## Online-Learning-exercises!
 - For practicing your code https://www.hackerrank.com/
