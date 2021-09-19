@@ -13,22 +13,31 @@ I will also be updating this repo regularly so stay tuned!.
 <h6 id="Streaming-setup!">Streaming-setup!<a href="#Streaming-setup!"></a></h6> 
 <h6 id="Website-Development-Sites!">Website-Development-Sites!<a href="#Website-Development-Sites!"></a></h6>
 -->
-
-## Useful-websites!
-- Github docs https://docs.gitlab.com/
+## Web-Dev-stuff
 - A Raod map for beginners https://roadmap.sh/
 - Free code camp https://www.freecodecamp.org/
 - Udemy https://www.udemy.com/ ( A place you can buy cheap course for life time :) ) 
 - CodeSignal https://app.codesignal.com/
 - Frontend mentor https://www.frontendmentor.io/challenges
 - Dev.to https://dev.to/ ( A good place to search for projects )
-- Figma https://www.figma.com/ ( For UI and UX design )
-- Git Lab https://lab.github.com/ ( For learning how to use github )
 - Laracast https://laracasts.com/ ( A Free learning site for laravel )
 - Vue Mastery https://www.vuemastery.com/ ( A free learning site for learning Vue js )
 - Code Accademy https://www.codecademy.com/ ( subscription paid learning )
 - Code Institute https://codeinstitute.net/full-stack-software-development-diploma/ ( A Paid full stack Diploma Course ) 
 - Team Treehouse https://teamtreehouse.com/ ( A Montley Subscription for learning to code )
+- For learning javascript effects https://threejs.org/
+- For web hosting https://www.bluehost.com/web-hosting/signup 
+- Finding code explinations https://developer.mozilla.org/
+- A bunch of random projects https://www.programcreek.com/
+- A Crypto learning site https://buildspace.so/
+- For Practicing code https://leetcode.com/ 
+- For dummy images https://placeimg.com/
+- Just some Docs https://devdocs.io/ 
+
+## Useful-websites!
+- Github docs https://docs.gitlab.com/
+- Figma https://www.figma.com/ ( For UI and UX design )
+- Git Lab https://lab.github.com/ ( For learning how to use github )
 - Brilliant a great learning site https://brilliant.org/courses/ ( For full benifits pay 10 per month )
 - Notion A task managment software https://www.notion.so/desktop
 - Project managment site https://trello.com/ 
@@ -36,17 +45,10 @@ I will also be updating this repo regularly so stay tuned!.
 - Gamge development https://learn.unity.com/ 
 - Mobaxterm Server file viewer https://mobaxterm.mobatek.net/
 - A random word picker if you cant make up your mind on a name or project https://wheelofnames.com/
-- For web hosting https://www.bluehost.com/web-hosting/signup 
-- A bunch of random projects https://www.programcreek.com/
-- Finding code explinations https://developer.mozilla.org/
 - More explinations for code https://www.w3schools.com/ 
 - Another learning platform https://www.udacity.com/
 - A coding game https://www.codingame.com/start 
 - For designers to post their art work https://www.deviantart.com/ 
-- For learning javascript effects https://threejs.org/
-- For Practicing code https://leetcode.com/ 
-- For dummy images https://placeimg.com/
-- Just some Docs https://devdocs.io/ 
 - Check if a website is safe or not https://www.virustotal.com/gui/home/upload
 - Golang https://golang.org/
 
@@ -143,7 +145,6 @@ I will also be updating this repo regularly so stay tuned!.
 * Adding Ui Components soon!. Stay tuned
 
 ## Other-Stuff! 
-* A Crypto learning site https://buildspace.so/
 * learn how discord bots work https://www.writebots.com/ 
 * A free photo editor https://www.inpixio.com/free-photo-editor/
 * Anijs https://anijs.github.io/
