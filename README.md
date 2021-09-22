@@ -7,6 +7,7 @@ I will also be updating this repo regularly so stay tuned!.
 
 # Table of Context 
 * Will add table of context soon :) stay tuned!.
+* <li><a href="#Web-Dev-stuff">Web-dev-stuff</li>
 <!--
 <h6 id="Useful-websites">Useful-Websites!<a href="#Useful-websites"></a></h6> 
 <h6 id="Copyright-free-stuff!">Copyright-free-stuff!<a href="#Copyright-free-stuff!"></a></h6>
