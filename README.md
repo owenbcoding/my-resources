@@ -6,14 +6,15 @@ But there are lots of stuff you can pay for also for thats not that expensive.
 I will also be updating this repo regularly so stay tuned!. 
 
 # Table of Context 
-* Will add table of context soon :) stay tuned!.
-* <li><a href="#Web-Dev-stuff">Web-dev-stuff</li>
-<!--
-<h6 id="Useful-websites">Useful-Websites!<a href="#Useful-websites"></a></h6> 
-<h6 id="Copyright-free-stuff!">Copyright-free-stuff!<a href="#Copyright-free-stuff!"></a></h6>
-<h6 id="Streaming-setup!">Streaming-setup!<a href="#Streaming-setup!"></a></h6> 
-<h6 id="Website-Development-Sites!">Website-Development-Sites!<a href="#Website-Development-Sites!"></a></h6>
--->
+<li><a href="#Web-Dev-stuff">Web-dev-stuff</li>
+<li><a href="#Useful-websites">Useful-websites</li>
+<li><a href="#Copyright-free-stuff">Copyright-free-stuff</li>
+<li><a href="#Streaming-setup">Streaming-setup</li>
+<li><a href="#Web-Dev-stuff">Web-dev-stuff</li>
+<li><a href="#Website-Development-Sites">Website-Development-Sites</li>
+<li><a href="#Ethical-hacking">Ethical-hacking</li>
+<li><a href="#Web-Dev-stuff">Web-dev-stuff</li>
+  
 ## Web-Dev-stuff
 - A Raod map for beginners https://roadmap.sh/
 - Free code camp https://www.freecodecamp.org/
