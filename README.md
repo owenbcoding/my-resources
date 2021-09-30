@@ -81,6 +81,7 @@ I will also be updating this repo regularly so stay tuned!.
 - Another website for learning js https://www.learn-js.org/ 
 
 ## HTML-STUFF!
+* Html image stuff https://htmlreference.io/element/source/
 * More explinations for code https://www.w3schools.com/ 
 * A HTML Learning Site https://htmlg.com/html-editor/
 * The Odin project https://www.theodinproject.com/ ( A free Website learning course )
