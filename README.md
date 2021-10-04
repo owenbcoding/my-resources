@@ -157,6 +157,7 @@ I will also be updating this repo regularly so stay tuned!.
 * SVG https://svgartista.net/
 * Jh3y https://github.com/jh3y/whirl 
 * AnimXYZ https://animxyz.com/ 
+* For youtube thumbnails https://www.canva.com/
 
 ## Ethical-hacking
 * Null Byte also on youtube great tutorials https://null-byte.wonderhowto.com/
