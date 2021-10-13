@@ -116,6 +116,9 @@ I will also be updating this repo regularly so stay tuned!.
 * CSS Zdog https://zzz.dog/ 
 * CSS Hover https://ianlunn.github.io/Hover/ 
 * CSS Hamburgers https://jonsuh.com/hamburgers/
+* CSS Generators https://denic.hashnode.dev/css-generators
+* CSS Shadows https://shadows.brumm.af/ 
+* CSS Soft UI https://neumorphism.io/#e0e0e0 
 
 ## Javascript-Stuff 
 * Slide show in js https://www.c-sharpcorner.com/article/creating-an-image-slider-using-javascript-html-and-css-only/
