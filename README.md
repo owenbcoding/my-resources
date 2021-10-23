@@ -148,7 +148,7 @@ I will also be updating this repo regularly so stay tuned!.
 * Progress bar js https://kimmobrunfeldt.github.io/progressbar.js/
 
 ## Ui Components!
-* Adding Ui Components soon!. Stay tuned
+* Adding Ui Components soon!. Stay tuned!
 
 ## Other-Stuff! 
 * learn how discord bots work https://www.writebots.com/ 
