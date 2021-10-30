@@ -36,6 +36,7 @@ I will also be updating this repo regularly so stay tuned!.
 - Just some Docs https://devdocs.io/ 
 
 ## Useful-websites!
+- For checking responsiveness on all devices http://ami.responsivedesign.is/
 - Github docs https://docs.gitlab.com/
 - Figma https://www.figma.com/ ( For UI and UX design )
 - Git Lab https://lab.github.com/ ( For learning how to use github )
