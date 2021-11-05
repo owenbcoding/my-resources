@@ -120,6 +120,10 @@ I will also be updating this repo regularly so stay tuned!.
 * CSS Generators https://denic.hashnode.dev/css-generators
 * CSS Shadows https://shadows.brumm.af/ 
 * CSS Soft UI https://neumorphism.io/#e0e0e0 
+* A CSS battle game https://cssbattle.dev/
+* A CSS Glitch Effect https://freefrontend.com/css-text-glitch-effects/
+* A Code pen glitch effect https://codepen.io/cipherbeta/pen/YLdVjw
+* Grid notes https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout/Basic_Concepts_of_Grid_Layout
 
 ## Javascript-Stuff 
 * Slide show in js https://www.c-sharpcorner.com/article/creating-an-image-slider-using-javascript-html-and-css-only/
@@ -147,6 +151,7 @@ I will also be updating this repo regularly so stay tuned!.
 * Vivus js https://maxwellito.github.io/vivus/
 * Typed js https://mattboldt.com/demos/typed-js/
 * Progress bar js https://kimmobrunfeldt.github.io/progressbar.js/
+* Js Game Libraries https://github.com/collections/javascript-game-engines
 
 ## Ui Components!
 * Adding Ui Components soon!. Stay tuned!
