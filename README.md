@@ -125,6 +125,8 @@ I will also be updating this repo regularly so stay tuned!.
 * A CSS Glitch Effect https://freefrontend.com/css-text-glitch-effects/
 * A Code pen glitch effect https://codepen.io/cipherbeta/pen/YLdVjw
 * Grid notes https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout/Basic_Concepts_of_Grid_Layout
+* Css Glitch effect https://css-tricks.com/glitch-effect-text-images-svg/
+* CSS Type Wrighter effect https://css-tricks.com/snippets/css/typewriter-effect/
 
 ## Javascript-Stuff 
 * Slide show in js https://www.c-sharpcorner.com/article/creating-an-image-slider-using-javascript-html-and-css-only/
