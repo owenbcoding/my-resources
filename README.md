@@ -15,7 +15,7 @@ I will also be updating this repo regularly so stay tuned!.
 <li><a href="#Ethical-hacking">Ethical-hacking</li>
   
 ## Web-Dev-stuff
-- A Raod map for beginners https://roadmap.sh/
+- A Road map for beginners https://roadmap.sh/
 - Free code camp https://www.freecodecamp.org/
 - Udemy https://www.udemy.com/ ( A place you can buy cheap course for life time :) ) 
 - CodeSignal https://app.codesignal.com/
