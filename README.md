@@ -1,8 +1,8 @@
 # My-Resources
-This is a list of the websites I use on a daily bases.
-I made this list so I can share with fellow developers I hope you enjoy :).
-I Try to look for as many free stuff as possible to help people who are struggeling.
-But there are lots of stuff you can pay for also for thats not that expensive.
+This is a list of the websites I use on a daily basis.
+I made this list so I can share with fellow developers I hope you enjoy it :).
+I Try to look for as many free stuff as possible to help people who are struggling.
+But there are a lot of stuffs you can pay for also for thats not that expensive.
 I will also be updating this repo regularly so stay tuned!. 
 
 # Table of Context 
@@ -15,7 +15,7 @@ I will also be updating this repo regularly so stay tuned!.
 <li><a href="#Ethical-hacking">Ethical-hacking</li>
   
 ## Web-Dev-stuff
-- A Raod map for beginners https://roadmap.sh/
+- A Road map for beginners https://roadmap.sh/
 - Free code camp https://www.freecodecamp.org/
 - Udemy https://www.udemy.com/ ( A place you can buy cheap course for life time :) ) 
 - CodeSignal https://app.codesignal.com/
