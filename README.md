@@ -10,7 +10,7 @@ I will also be updating this repo regularly so stay tuned!.
 <li><a href="#Useful-websites">Useful-websites</li>
 <li><a href="#Copyright-free-stuff">Copyright-free-stuff</li>
 <li><a href="#Streaming-setup">Streaming-setup</li>
-<li><a href="#Website-Development-Sites">Website-Development-Sites</li>
+<li><a href="#Website-Dev-Sites">Website-Dev-Sites</li>
 <li><a href="#Other-Stuff">Other-Stuff</li>
 <li><a href="#Ethical-hacking">Ethical-hacking</li>
   
@@ -69,7 +69,7 @@ I will also be updating this repo regularly so stay tuned!.
 - Stream Parrot https://streamparrot.com/ ( this is a custom chat overlay for twitch )
 - For Obs stuff https://github.com/bozbez/win-capture-audio/releases/ watch this video to learn how to seperate audio https://www.youtube.com/watch?v=aOrAsQgJvtQ&ab_channel=GamingCareers
 
-## Website-Development-Sites!
+## Website-Dev-Sites!
 
 ## Online-Text-Eeditors!
 - Replit a online Browser text editor https://replit.com/ 
