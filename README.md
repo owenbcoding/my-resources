@@ -17,7 +17,7 @@ I will also be updating this repo regularly so stay tuned!.
 ## Web-Dev-stuff
 - A Road map for beginners https://roadmap.sh/
 - Free code camp https://www.freecodecamp.org/
-- Udemy https://www.udemy.com/ ( A place you can buy cheap course for life time :) ) 
+- Udemy https://www.udemy.com/ ( A place you can buy cheap course for life :) ) 
 - CodeSignal https://app.codesignal.com/
 - Frontend mentor https://www.frontendmentor.io/challenges
 - Dev.to https://dev.to/ ( A good place to search for projects )
