@@ -54,8 +54,7 @@ I will also be updating this repo regularly so stay tuned!.
 - For designers to post their art work https://www.deviantart.com/ 
 - Check if a website is safe or not https://www.virustotal.com/gui/home/upload
 - Golang https://golang.org/
-- For Obs stuff https://github.com/bozbez/win-capture-audio/releases/ watch this video to learn how to seperate audio https://www.youtube.com/watch?v=aOrAsQgJvtQ&ab_channel=GamingCareers
-
+  
 ## Copyright-free-stuff!
 - For Free images https://www.pexels.com/ / https://unsplash.com/ / https://pixabay.com/ / https://www.splitshire.com/
 - Free Stock videos https://coverr.co/ / https://www.videezy.com/ / https://www.lifeofvids.com/ / https://www.videvo.net/stock-video-footage/ / https://sproutvideo.com/ / https://www.stockvault.net/ / https://picjumbo.com/ / https://www.freeimages.com/ / https://pikwizard.com/ / https://stocksnap.io/
@@ -67,7 +66,8 @@ I will also be updating this repo regularly so stay tuned!.
 - Download Streamelements obs for real time twitch alerts https://streamelements.com/
 - Stream Bitrate Set up for OBS https://blog.mobcrush.com/how-to-choose-the-right-bitrate-for-your-stream-9864ce322a9b 
 - For OBS Green Screen https://github.com/nhtua/greencam / https://github.com/nhtua/greencam/blob/main/docs/the-easiest-way-to-use-greencam.md
-- Stream Parrot https://streamparrot.com/ ( this is a custom chat overlay for twitch ) 
+- Stream Parrot https://streamparrot.com/ ( this is a custom chat overlay for twitch )
+- For Obs stuff https://github.com/bozbez/win-capture-audio/releases/ watch this video to learn how to seperate audio https://www.youtube.com/watch?v=aOrAsQgJvtQ&ab_channel=GamingCareers
 
 ## Website-Development-Sites!
 
