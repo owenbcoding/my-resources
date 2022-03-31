@@ -68,6 +68,7 @@ I will also be updating this repo regularly so stay tuned!.
 - For OBS Green Screen https://github.com/nhtua/greencam / https://github.com/nhtua/greencam/blob/main/docs/the-easiest-way-to-use-greencam.md
 - Stream Parrot https://streamparrot.com/ ( this is a custom chat overlay for twitch )
 - For Obs stuff https://github.com/bozbez/win-capture-audio/releases/ watch this video to learn how to seperate audio https://www.youtube.com/watch?v=aOrAsQgJvtQ&ab_channel=GamingCareers
+- Obs add blur effect https://getonstream.com/how-to-add-a-blur-to-obs/
 
 ## Website-Dev-Sites!
 
