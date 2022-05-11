@@ -35,6 +35,7 @@ I will also be updating this repo regularly so stay tuned!.
 - For Practicing code https://leetcode.com/ 
 - For dummy images https://placeimg.com/
 - Just some Docs https://devdocs.io/ 
+- Useful place holder images for mock up sites illustrations
 
 ## Useful-websites!
 - For checking responsiveness on all devices http://ami.responsivedesign.is/
