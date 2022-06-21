@@ -33,9 +33,13 @@ I will also be updating this repo regularly so stay tuned!.
 - A bunch of random projects https://www.programcreek.com/
 - A Crypto learning site https://buildspace.so/
 - For Practicing code https://leetcode.com/ 
+- Another Practice Site https://www.sololearn.com/home
+- Another Pracitce Site https://www.hackerrank.com/
+- For learning tailwindCSS https://play.tailwindcss.com/
 - For dummy images https://placeimg.com/
 - Just some Docs https://devdocs.io/ 
-- Useful place holder images for mock up sites illustrations
+- Useful place holder images for mock up sites illustrations https://undraw.co/
+- For UI/UX Design stuff https://course-ui-ux.creative-tim.com/course/ux-design-fundamentals?ref=ct-info&_ga=2.193514030.20498301.1655753785-843460831.1655753785
 
 ## Useful-websites!
 - For checking responsiveness on all devices http://ami.responsivedesign.is/
