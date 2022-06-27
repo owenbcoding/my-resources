@@ -40,6 +40,7 @@ I will also be updating this repo regularly so stay tuned!.
 - Just some Docs https://devdocs.io/ 
 - Useful place holder images for mock up sites illustrations https://undraw.co/
 - For UI/UX Design stuff https://course-ui-ux.creative-tim.com/course/ux-design-fundamentals?ref=ct-info&_ga=2.193514030.20498301.1655753785-843460831.1655753785
+- Mark down syntax https://intra.kth.se/en/administration/kommunikation/webb/applikationer/formularhantering/markdown-syntax-1.701701
 
 ## Useful-websites!
 - For checking responsiveness on all devices http://ami.responsivedesign.is/
