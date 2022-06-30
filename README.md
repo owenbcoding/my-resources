@@ -3,7 +3,7 @@ This is a list of the websites I use on a daily bases.
 I made this list so I can share with fellow developers I hope you enjoy :).
 I Try to look for as many free stuff as possible to help people who are strugeling.
 But there are lots of stuff you can pay for also for thats not that expensive.
-I will also be updating this repo regularly so stay tuned!. 
+I will also be updating this repo Daily. 
 
 # Table of Context 
 <li><a href="#Web-Dev-stuff">Web-dev-stuff</li>
@@ -13,7 +13,8 @@ I will also be updating this repo regularly so stay tuned!.
 <li><a href="#Website-Dev-Sites">Website-Dev-Sites</li>
 <li><a href="#Other-Stuff">Other-Stuff</li>
 <li><a href="#Ethical-hacking">Ethical-hacking</li>
-  
+<li><a href="#Favourite-NPM-Packages">Favourite-NPM-Packages</li>
+
 ## Web-Dev-stuff
 - A Road map for beginners https://roadmap.sh/
 - Free code camp https://www.freecodecamp.org/
@@ -41,6 +42,12 @@ I will also be updating this repo regularly so stay tuned!.
 - Useful place holder images for mock up sites illustrations https://undraw.co/
 - For UI/UX Design stuff https://course-ui-ux.creative-tim.com/course/ux-design-fundamentals?ref=ct-info&_ga=2.193514030.20498301.1655753785-843460831.1655753785
 - Mark down syntax https://intra.kth.se/en/administration/kommunikation/webb/applikationer/formularhantering/markdown-syntax-1.701701
+
+## Favourite-NPM-Packages
+- Particlesjs https://github.com/matteobruni/tsparticles/tree/main/components/react
+- Figlet package https://www.npmjs.com/package/figlet For terminal stuff
+- Tilt package https://www.npmjs.com/package/matrix-rain
+- Matrix package https://www.npmjs.com/package/matrix-rain
 
 ## Useful-websites!
 - For checking responsiveness on all devices http://ami.responsivedesign.is/
@@ -143,7 +150,8 @@ I will also be updating this repo regularly so stay tuned!.
 * High Proformance animations https://greensock.com/
 * Nice js animations https://github.com/alexfoxy/lax.js 
 * Relax js https://github.com/dixonandmoe/rellax
-* ThreeJS https://threejs.org/ ( 3D library for js ) 
+* ThreeJS https://threejs.org/ ( 3D library for js )
+* ThreeJS Journey https://threejs-journey.com/#
 * Wow js https://wowjs.uk/ 
 * Animate on scroll https://michalsnik.github.io/aos/ 
 * Tilt js https://gijsroge.github.io/tilt.js/ 
