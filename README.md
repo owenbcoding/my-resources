@@ -45,6 +45,7 @@ I will also be updating this repo Daily.
 
 ## Favourite-NPM-Packages
 - Particlesjs https://github.com/matteobruni/tsparticles/tree/main/components/react
+- Particlesjs JSon export https://particles.js.org/
 - Figlet package https://www.npmjs.com/package/figlet For terminal stuff
 - Tilt package https://www.npmjs.com/package/matrix-rain
 - Matrix package https://www.npmjs.com/package/matrix-rain
