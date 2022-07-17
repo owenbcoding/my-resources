@@ -43,6 +43,7 @@ I will also be updating this repo Daily.
 - For UI/UX Design stuff https://course-ui-ux.creative-tim.com/course/ux-design-fundamentals?ref=ct-info&_ga=2.193514030.20498301.1655753785-843460831.1655753785
 - Mark down syntax https://intra.kth.se/en/administration/kommunikation/webb/applikationer/formularhantering/markdown-syntax-1.701701
 - For color Gradients https://www.grabient.com 
+- Check list for frontend stuff https://frontendchecklist.io/
 
 ## Favourite-NPM-Packages
 - Particlesjs https://github.com/matteobruni/tsparticles/tree/main/components/react
