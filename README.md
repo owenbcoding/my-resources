@@ -71,8 +71,11 @@ I will also be updating this repo Daily.
 - For designers to post their art work https://www.deviantart.com/ 
 - Check if a website is safe or not https://www.virustotal.com/gui/home/upload
 - Golang https://golang.org/
-- art portraits for your avatar or real picture https://covatar.com/ 
-  
+- art portraits for your avatar or real picture https://covatar.com/
+- For Buisness style vectors https://undraw.co/illustrations
+- For Buisness style vectors https://www.freepik.com/vectors/business
+- For Buisness style vectors https://www.streamlinehq.com/illustrations/milano
+
 ## Copyright-free-stuff!
 - For Free images https://www.pexels.com/ / https://unsplash.com/ / https://pixabay.com/ / https://www.splitshire.com/
 - Free Stock videos https://coverr.co/ / https://www.videezy.com/ / https://www.lifeofvids.com/ / https://www.videvo.net/stock-video-footage/ / https://sproutvideo.com/ / https://www.stockvault.net/ / https://picjumbo.com/ / https://www.freeimages.com/ / https://pikwizard.com/ / https://stocksnap.io/
