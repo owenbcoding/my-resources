@@ -8,8 +8,8 @@ I will also be updating this repo Daily.
 # Table of Context 
 <li><a href="#Useful-websites">Useful-websites</li>
 <li><a href="#Copyright-free-stuff">Copyright-free-stuff</li>
-<li><a href="#Web-Dev-stuff">Web-dev-stuff</li>
 <li><a href="#Streaming-setup">Streaming-setup</li>
+<li><a href="#Web-Dev-stuff">Web-dev-stuff</li>
 <li><a href="#Website-Dev-Sites">Website-Dev-Sites</li>
 <li><a href="#Other-Stuff">Other-Stuff</li>
 <li><a href="#Ethical-hacking">Ethical-hacking</li>
@@ -50,6 +50,15 @@ I will also be updating this repo Daily.
 - Free vector art https://www.vecteezy.com/ / https://www.freepik.com/ / https://www.freevectors.net/ / https://pngtree.com/free-vectors / https://www.vector4free.com/ / https://lukaszadam.com/ / https://illlustrations.co/ / https://clipartkind.com/ / https://growwwkit.com/illustrations/phonies / https://trianglify.io/ / https://www.hiclipart.com/ / https://storyset.com/ / https://www.blackillustrations.com/ / https://delesign.com/free-designs/graphics / https://www.shapedivider.app/ / https://smart.servier.com/ / https://svgwave.in/ / https://www.heritagetype.com/pages/free-vintage-illustrations /https://robohash.org/ / https://tabbied.com/ / https://app.haikei.app/ 
 - Copyright Free music for streaming youtube etc https://www.soundstripe.com/ 10/month 
 
+## Streaming-setup!
+- Download Streamelements obs for real time twitch alerts https://streamelements.com/
+- Stream Bitrate Set up for OBS https://blog.mobcrush.com/how-to-choose-the-right-bitrate-for-your-stream-9864ce322a9b 
+- For OBS Green Screen https://github.com/nhtua/greencam / https://github.com/nhtua/greencam/blob/main/docs/the-easiest-way-to-use-greencam.md
+- Stream Parrot https://streamparrot.com/ ( this is a custom chat overlay for twitch )
+- For Obs stuff https://github.com/bozbez/win-capture-audio/releases/ watch this video to learn how to seperate audio https://www.youtube.com/watch?v=aOrAsQgJvtQ&ab_channel=GamingCareers
+- Obs add blur effect https://getonstream.com/how-to-add-a-blur-to-obs/
+
+
 ## Web-Dev-stuff
 - A Road map for beginners https://roadmap.sh/
 - Free code camp https://www.freecodecamp.org/
@@ -87,14 +96,6 @@ I will also be updating this repo Daily.
 - Figlet package https://www.npmjs.com/package/figlet For terminal stuff
 - Tilt package https://www.npmjs.com/package/matrix-rain
 - Matrix package https://www.npmjs.com/package/matrix-rain
-
-## Streaming-setup!
-- Download Streamelements obs for real time twitch alerts https://streamelements.com/
-- Stream Bitrate Set up for OBS https://blog.mobcrush.com/how-to-choose-the-right-bitrate-for-your-stream-9864ce322a9b 
-- For OBS Green Screen https://github.com/nhtua/greencam / https://github.com/nhtua/greencam/blob/main/docs/the-easiest-way-to-use-greencam.md
-- Stream Parrot https://streamparrot.com/ ( this is a custom chat overlay for twitch )
-- For Obs stuff https://github.com/bozbez/win-capture-audio/releases/ watch this video to learn how to seperate audio https://www.youtube.com/watch?v=aOrAsQgJvtQ&ab_channel=GamingCareers
-- Obs add blur effect https://getonstream.com/how-to-add-a-blur-to-obs/
 
 ## Website-Dev-Sites!
 
