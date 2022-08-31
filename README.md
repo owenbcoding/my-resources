@@ -117,7 +117,7 @@ I will also be updating this repo Daily.
 * Html image stuff https://htmlreference.io/element/source/
 * More explinations for code https://www.w3schools.com/ 
 * A HTML Learning Site https://htmlg.com/html-editor/
-* The Odin project https://www.theodinproject.com/ ( A free Website learning course )
+* The Odin project ( A free Website learning course ) https://www.theodinproject.com/
 * For learning React https://create-react-app.dev/docs/getting-started/
 * For learning Laravel https://laravel.com/docs/8.x/installation 
 * HTML Templates http://www.mashup-template.com/ 
