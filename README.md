@@ -57,6 +57,7 @@ I will also be updating this repo Daily.
 - Stream Parrot https://streamparrot.com/ ( this is a custom chat overlay for twitch )
 - For Obs stuff https://github.com/bozbez/win-capture-audio/releases/ watch this video to learn how to seperate audio https://www.youtube.com/watch?v=aOrAsQgJvtQ&ab_channel=GamingCareers
 - Obs add blur effect https://getonstream.com/how-to-add-a-blur-to-obs/
+- For testing your streams fps https://inspector.twitch.tv/ 
 
 
 ## Web-Dev-stuff
