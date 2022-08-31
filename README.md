@@ -6,14 +6,49 @@ But there are lots of stuff you can pay for also for thats not that expensive.
 I will also be updating this repo Daily. 
 
 # Table of Context 
-<li><a href="#Web-Dev-stuff">Web-dev-stuff</li>
 <li><a href="#Useful-websites">Useful-websites</li>
 <li><a href="#Copyright-free-stuff">Copyright-free-stuff</li>
+<li><a href="#Web-Dev-stuff">Web-dev-stuff</li>
 <li><a href="#Streaming-setup">Streaming-setup</li>
 <li><a href="#Website-Dev-Sites">Website-Dev-Sites</li>
 <li><a href="#Other-Stuff">Other-Stuff</li>
 <li><a href="#Ethical-hacking">Ethical-hacking</li>
 <li><a href="#Favourite-NPM-Packages">Favourite-NPM-Packages</li>
+
+## Useful-websites!
+- For checking responsiveness on all devices http://ami.responsivedesign.is/
+- Github docs https://docs.gitlab.com/
+- Figma https://www.figma.com/ ( For UI and UX design )
+- Git Lab https://lab.github.com/ ( For learning how to use github )
+- Brilliant a great learning site https://brilliant.org/courses/ ( For full benifits pay 10 per month )
+- Notion A task managment software https://www.notion.so/desktop
+- Project managment site https://trello.com/ 
+- Shortcut like trello on steroids https://app.shortcut.com/
+- Gamge development https://learn.unity.com/ 
+- Mobaxterm Server file viewer https://mobaxterm.mobatek.net/
+- A random word picker if you cant make up your mind on a name or project https://wheelofnames.com/
+- More explinations for code https://www.w3schools.com/ 
+- Another learning platform https://www.udacity.com/
+- A coding game https://www.codingame.com/start 
+- For designers to post their art work https://www.deviantart.com/ 
+- Check if a website is safe or not https://www.virustotal.com/gui/home/upload
+- Golang https://golang.org/
+- art portraits for your avatar or real picture https://covatar.com/
+- For Buisness style vectors https://undraw.co/illustrations
+- For Buisness style vectors https://www.freepik.com/vectors/business
+- For Buisness style vectors https://www.streamlinehq.com/illustrations/milano
+- Herkou Alternative https://www.netlify.com/
+- Heroku Alternative https://fly.io/
+- Heroku Alternative https://www.deta.sh/
+- Herkou Alternative https://qoddi.com/
+- Herko Alternative https://www.cyclic.sh/
+
+## Copyright-free-stuff!
+- For Free images https://www.pexels.com/ / https://unsplash.com/ / https://pixabay.com/ / https://www.splitshire.com/
+- Free Stock videos https://coverr.co/ / https://www.videezy.com/ / https://www.lifeofvids.com/ / https://www.videvo.net/stock-video-footage/ / https://sproutvideo.com/ / https://www.stockvault.net/ / https://picjumbo.com/ / https://www.freeimages.com/ / https://pikwizard.com/ / https://stocksnap.io/
+- Free stock music https://www.free-stock-music.com/ / https://www.bensound.com/ https://mixkit.co/free-stock-music/ / https://freemusicarchive.org/ / 
+- Free vector art https://www.vecteezy.com/ / https://www.freepik.com/ / https://www.freevectors.net/ / https://pngtree.com/free-vectors / https://www.vector4free.com/ / https://lukaszadam.com/ / https://illlustrations.co/ / https://clipartkind.com/ / https://growwwkit.com/illustrations/phonies / https://trianglify.io/ / https://www.hiclipart.com/ / https://storyset.com/ / https://www.blackillustrations.com/ / https://delesign.com/free-designs/graphics / https://www.shapedivider.app/ / https://smart.servier.com/ / https://svgwave.in/ / https://www.heritagetype.com/pages/free-vintage-illustrations /https://robohash.org/ / https://tabbied.com/ / https://app.haikei.app/ 
+- Copyright Free music for streaming youtube etc https://www.soundstripe.com/ 10/month 
 
 ## Web-Dev-stuff
 - A Road map for beginners https://roadmap.sh/
@@ -52,36 +87,6 @@ I will also be updating this repo Daily.
 - Figlet package https://www.npmjs.com/package/figlet For terminal stuff
 - Tilt package https://www.npmjs.com/package/matrix-rain
 - Matrix package https://www.npmjs.com/package/matrix-rain
-
-## Useful-websites!
-- For checking responsiveness on all devices http://ami.responsivedesign.is/
-- Github docs https://docs.gitlab.com/
-- Figma https://www.figma.com/ ( For UI and UX design )
-- Git Lab https://lab.github.com/ ( For learning how to use github )
-- Brilliant a great learning site https://brilliant.org/courses/ ( For full benifits pay 10 per month )
-- Notion A task managment software https://www.notion.so/desktop
-- Project managment site https://trello.com/ 
-- Shortcut like trello on steroids https://app.shortcut.com/
-- Gamge development https://learn.unity.com/ 
-- Mobaxterm Server file viewer https://mobaxterm.mobatek.net/
-- A random word picker if you cant make up your mind on a name or project https://wheelofnames.com/
-- More explinations for code https://www.w3schools.com/ 
-- Another learning platform https://www.udacity.com/
-- A coding game https://www.codingame.com/start 
-- For designers to post their art work https://www.deviantart.com/ 
-- Check if a website is safe or not https://www.virustotal.com/gui/home/upload
-- Golang https://golang.org/
-- art portraits for your avatar or real picture https://covatar.com/
-- For Buisness style vectors https://undraw.co/illustrations
-- For Buisness style vectors https://www.freepik.com/vectors/business
-- For Buisness style vectors https://www.streamlinehq.com/illustrations/milano
-
-## Copyright-free-stuff!
-- For Free images https://www.pexels.com/ / https://unsplash.com/ / https://pixabay.com/ / https://www.splitshire.com/
-- Free Stock videos https://coverr.co/ / https://www.videezy.com/ / https://www.lifeofvids.com/ / https://www.videvo.net/stock-video-footage/ / https://sproutvideo.com/ / https://www.stockvault.net/ / https://picjumbo.com/ / https://www.freeimages.com/ / https://pikwizard.com/ / https://stocksnap.io/
-- Free stock music https://www.free-stock-music.com/ / https://www.bensound.com/ https://mixkit.co/free-stock-music/ / https://freemusicarchive.org/ / 
-- Free vector art https://www.vecteezy.com/ / https://www.freepik.com/ / https://www.freevectors.net/ / https://pngtree.com/free-vectors / https://www.vector4free.com/ / https://lukaszadam.com/ / https://illlustrations.co/ / https://clipartkind.com/ / https://growwwkit.com/illustrations/phonies / https://trianglify.io/ / https://www.hiclipart.com/ / https://storyset.com/ / https://www.blackillustrations.com/ / https://delesign.com/free-designs/graphics / https://www.shapedivider.app/ / https://smart.servier.com/ / https://svgwave.in/ / https://www.heritagetype.com/pages/free-vintage-illustrations /https://robohash.org/ / https://tabbied.com/ / https://app.haikei.app/ 
-- Copyright Free music for streaming youtube etc https://www.soundstripe.com/ 10/month 
 
 ## Streaming-setup!
 - Download Streamelements obs for real time twitch alerts https://streamelements.com/
