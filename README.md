@@ -53,13 +53,20 @@ I will also be updating this repo Daily.
 - Free Stock videos https://www.lifeofvids.com/ 
 - Free Stock videos https://www.videvo.net/stock-video-footage/
 - Free Stock videos https://sproutvideo.com/ 
-- Free Stock videos https://www.stockvault.net/ 
-- Free Stock videos https://picjumbo.com/ 
-- https://www.freeimages.com/
-- https://pikwizard.com/
-- https://stocksnap.io/
-- Free stock music https://www.free-stock-music.com/ / https://www.bensound.com/ https://mixkit.co/free-stock-music/ / https://freemusicarchive.org/ / 
-- Free vector art https://www.vecteezy.com/   https://www.freepik.com/ / https://www.freevectors.net/ / https://pngtree.com/free-vectors / https://www.vector4free.com/ / https://lukaszadam.com/ / https://illlustrations.co/ / https://clipartkind.com/ / https://growwwkit.com/illustrations/phonies / https://trianglify.io/ / https://www.hiclipart.com/ / https://storyset.com/ / https://www.blackillustrations.com/ / https://delesign.com/free-designs/graphics / https://www.shapedivider.app/ / https://smart.servier.com/ / https://svgwave.in/ / https://www.heritagetype.com/pages/free-vintage-illustrations /https://robohash.org/ / https://tabbied.com/ / https://app.haikei.app/ 
+- Free Stock Images https://www.stockvault.net/ 
+- Free Stock Images https://picjumbo.com/ 
+- Free Images https://www.freeimages.com/
+- Free Images https://pikwizard.com/
+- Free Images https://stocksnap.io/
+- Free stock music https://www.free-stock-music.com/
+- Free music https://www.bensound.com/ https://mixkit.co/free-stock-music/ / https://freemusicarchive.org/ / 
+- Free vector art https://www.vecteezy.com/   
+- Free images https://www.freepik.com/
+- Free images https://www.freevectors.net/ 
+- Free images https://pngtree.com/free-vectors 
+- Free images https://www.vector4free.com/ 
+- https://lukaszadam.com/ 
+ https://illlustrations.co/ / https://clipartkind.com/ / https://growwwkit.com/illustrations/phonies / https://trianglify.io/ / https://www.hiclipart.com/ /  https://storyset.com/ / https://www.blackillustrations.com/ / https://delesign.com/free-designs/graphics / https://www.shapedivider.app/ / https://smart.servier.com/ / https://svgwave.in/ / https://www.heritagetype.com/pages/free-vintage-illustrations /https://robohash.org/ / https://tabbied.com/ / https://app.haikei.app/ 
 - Copyright Free music for streaming youtube etc https://www.soundstripe.com/ 10/month 
 
 ## Streaming-setup!
