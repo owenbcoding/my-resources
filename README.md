@@ -224,7 +224,7 @@ I will also be updating this repo Daily.
 * Js Game Libraries https://github.com/collections/javascript-game-engines
 
 ## Ui Components!
-* Adding Ui Components soon!. Stay tuned!
+* Adding Ui Components soon!
 
 ## Other-Stuff! 
 * learn how discord bots work https://www.writebots.com/ 
