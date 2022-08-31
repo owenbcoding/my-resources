@@ -59,7 +59,9 @@ I will also be updating this repo Daily.
 - Free Images https://pikwizard.com/
 - Free Images https://stocksnap.io/
 - Free stock music https://www.free-stock-music.com/
-- Free music https://www.bensound.com/ https://mixkit.co/free-stock-music/ / https://freemusicarchive.org/ / 
+- Free music https://www.bensound.com/ 
+- Free stock music https://mixkit.co/free-stock-music/ 
+- Free music https://freemusicarchive.org/ / 
 - Free vector art https://www.vecteezy.com/   
 - Free images https://www.freepik.com/
 - Free images https://www.freevectors.net/ 
@@ -81,10 +83,10 @@ I will also be updating this repo Daily.
 - Free images https://robohash.org/ 
 - Free images https://tabbied.com/
 - Free images https://app.haikei.app/ 
-- Copyright Free music for streaming youtube etc https://www.soundstripe.com/ 10/month 
 
 ## Streaming-setup!
-- Download Streamelements obs for real time twitch alerts https://streamelements.com/
+- Twitch alerts & Streaming https://streamelements.com/
+- Copyright Free music for streaming youtube etc https://www.soundstripe.com/ 10/month 
 - Stream Bitrate Set up for OBS https://blog.mobcrush.com/how-to-choose-the-right-bitrate-for-your-stream-9864ce322a9b 
 - For OBS Green Screen https://github.com/nhtua/greencam / https://github.com/nhtua/greencam/blob/main/docs/the-easiest-way-to-use-greencam.md
 - Stream Parrot https://streamparrot.com/ ( this is a custom chat overlay for twitch )
