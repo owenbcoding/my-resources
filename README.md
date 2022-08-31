@@ -41,7 +41,7 @@ I will also be updating this repo Daily.
 - Heroku Alternative https://fly.io/
 - Heroku Alternative https://www.deta.sh/
 - Herkou Alternative https://qoddi.com/
-- Herko Alternative https://www.cyclic.sh/
+- Herkou Alternative https://www.cyclic.sh/
 
 ## Copyright-free-stuff!
 - Free images https://www.pexels.com/ 
