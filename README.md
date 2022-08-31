@@ -44,10 +44,22 @@ I will also be updating this repo Daily.
 - Herko Alternative https://www.cyclic.sh/
 
 ## Copyright-free-stuff!
-- For Free images https://www.pexels.com/ / https://unsplash.com/ / https://pixabay.com/ / https://www.splitshire.com/
-- Free Stock videos https://coverr.co/ / https://www.videezy.com/ / https://www.lifeofvids.com/ / https://www.videvo.net/stock-video-footage/ / https://sproutvideo.com/ / https://www.stockvault.net/ / https://picjumbo.com/ / https://www.freeimages.com/ / https://pikwizard.com/ / https://stocksnap.io/
+- Free images https://www.pexels.com/ 
+- Free images / https://unsplash.com/ 
+- Free images / https://pixabay.com/
+- Free images / https://www.splitshire.com/
+- Free Stock videos https://coverr.co/ 
+- Free Stock videos https://www.videezy.com/ 
+- Free Stock videos https://www.lifeofvids.com/ 
+- Free Stock videos https://www.videvo.net/stock-video-footage/
+- Free Stock videos https://sproutvideo.com/ 
+- Free Stock videos https://www.stockvault.net/ 
+- Free Stock videos https://picjumbo.com/ 
+- https://www.freeimages.com/
+- https://pikwizard.com/
+- https://stocksnap.io/
 - Free stock music https://www.free-stock-music.com/ / https://www.bensound.com/ https://mixkit.co/free-stock-music/ / https://freemusicarchive.org/ / 
-- Free vector art https://www.vecteezy.com/ / https://www.freepik.com/ / https://www.freevectors.net/ / https://pngtree.com/free-vectors / https://www.vector4free.com/ / https://lukaszadam.com/ / https://illlustrations.co/ / https://clipartkind.com/ / https://growwwkit.com/illustrations/phonies / https://trianglify.io/ / https://www.hiclipart.com/ / https://storyset.com/ / https://www.blackillustrations.com/ / https://delesign.com/free-designs/graphics / https://www.shapedivider.app/ / https://smart.servier.com/ / https://svgwave.in/ / https://www.heritagetype.com/pages/free-vintage-illustrations /https://robohash.org/ / https://tabbied.com/ / https://app.haikei.app/ 
+- Free vector art https://www.vecteezy.com/   https://www.freepik.com/ / https://www.freevectors.net/ / https://pngtree.com/free-vectors / https://www.vector4free.com/ / https://lukaszadam.com/ / https://illlustrations.co/ / https://clipartkind.com/ / https://growwwkit.com/illustrations/phonies / https://trianglify.io/ / https://www.hiclipart.com/ / https://storyset.com/ / https://www.blackillustrations.com/ / https://delesign.com/free-designs/graphics / https://www.shapedivider.app/ / https://smart.servier.com/ / https://svgwave.in/ / https://www.heritagetype.com/pages/free-vintage-illustrations /https://robohash.org/ / https://tabbied.com/ / https://app.haikei.app/ 
 - Copyright Free music for streaming youtube etc https://www.soundstripe.com/ 10/month 
 
 ## Streaming-setup!
