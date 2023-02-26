@@ -59,6 +59,7 @@ I will also be updating this repo Daily.
 - Free Images https://pikwizard.com/
 - Free Images https://stocksnap.io/
 - Free stock music https://www.free-stock-music.com/
+- Copyright free music for streaming copy right free : https://www.soundstripe.com
 - Free music https://www.bensound.com/ 
 - Free stock music https://mixkit.co/free-stock-music/ 
 - Free music https://freemusicarchive.org/ / 
@@ -93,6 +94,8 @@ I will also be updating this repo Daily.
 - For Obs stuff https://github.com/bozbez/win-capture-audio/releases/ watch this video to learn how to seperate audio https://www.youtube.com/watch?v=aOrAsQgJvtQ&ab_channel=GamingCareers
 - Obs add blur effect https://getonstream.com/how-to-add-a-blur-to-obs/
 - For testing your streams fps https://inspector.twitch.tv/ 
+- Learning how to stream : https://streamersquare.com/courses/
+- Background music for streaming copy right free : https://www.soundstripe.com
 
 
 ## Web-Dev-stuff
@@ -125,6 +128,7 @@ I will also be updating this repo Daily.
 - For color Gradients https://www.grabient.com 
 - Check list for frontend stuff https://frontendchecklist.io/
 - Template read me site for all your github readme files https://readme.so/
+- Npm name guesser game https://npmpm.com/game made by CMGriffing
 
 ## Favourite-NPM-Packages
 - Particlesjs https://github.com/matteobruni/tsparticles/tree/main/components/react
@@ -147,6 +151,8 @@ I will also be updating this repo Daily.
 - For practicing your code https://www.hackerrank.com/
 - A Compeditive way to learn code with challeneges https://www.codewars.com/
 - Another website for learning js https://www.learn-js.org/ 
+- Algo expert for practing job interview questiions https://www.algoexpert.io/
+- 
 
 ## HTML-STUFF!
 * Html image stuff https://htmlreference.io/element/source/
@@ -224,7 +230,8 @@ I will also be updating this repo Daily.
 * Js Game Libraries https://github.com/collections/javascript-game-engines
 
 ## Ui Components!
-* Adding Ui Components soon!
+* Tailwind Components https://tailwindui.com/!
+* Creative tim Components https://www.creative-tim.com!
 
 ## Other-Stuff! 
 * learn how discord bots work https://www.writebots.com/ 
@@ -240,7 +247,7 @@ I will also be updating this repo Daily.
 
 ## Ethical-hacking
 * Null Byte also on youtube great tutorials https://null-byte.wonderhowto.com/
-* If you want to learn the basics of I.T  https://tryhackme.com/dashboard ( For full benifits pay 10 per month )
+* If you want to learn the basics of I.T  https://tryhackme.com ( For full benifits pay 10 per month )
 * For more advanced hacking https://app.hackthebox.eu/
 * For bugbounty hiring https://hackerone.com/ 
 * Black Arch Linux Distro https://blackarch.org/ 
