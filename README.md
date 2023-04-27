@@ -1,6 +1,6 @@
 # My-Resources
 This is a list of the websites I use on a daily bases.
-I made this list so I can share with fellow developers I hope you enjoy :).
+I made this list so I can share with fellow developers I hope you enjoy.
 I Try to look for as many free stuff as possible to help people who are strugeling.
 But there are lots of stuff you can pay for also for thats not that expensive.
 I will also be updating this repo Daily. 
@@ -101,13 +101,10 @@ I will also be updating this repo Daily.
 - Background music for streaming copy right free : https://www.soundstripe.com
 - Stream square I place to learn how streaming works https://streamersquare.com/
 
-
-
-
 ## Web-Dev-stuff
 - A Road map for beginners https://roadmap.sh/
 - Free code camp https://www.freecodecamp.org/
-- Udemy https://www.udemy.com/ ( A place you can buy cheap course for life :) ) 
+- Udemy https://www.udemy.com/ ( A place you can buy cheap course for life )
 - CodeSignal https://app.codesignal.com/
 - Frontend mentor https://www.frontendmentor.io/challenges
 - Dev.to https://dev.to/ ( A good place to search for projects )
@@ -115,7 +112,7 @@ I will also be updating this repo Daily.
 - Vue Mastery https://www.vuemastery.com/ ( A free learning site for learning Vue js )
 - Code Accademy https://www.codecademy.com/ ( subscription paid learning )
 - Code Institute https://codeinstitute.net/full-stack-software-development-diploma/ ( A Paid full stack Diploma Course ) 
-- Team Treehouse https://teamtreehouse.com/ ( A Montley Subscription for learning to code )
+- Team Treehouse https://teamtreehouse.com/ ( A Monthly Subscription for learning to code )
 - Coder dojo Full Stack boot camp in 14 weeks https://www.codingdojo.com/online-coding-bootcamp-full-time
 - For learning javascript effects https://threejs.org/
 - For web hosting https://www.bluehost.com/web-hosting/signup 
@@ -158,7 +155,6 @@ I will also be updating this repo Daily.
 - A Compeditive way to learn code with challeneges https://www.codewars.com/
 - Another website for learning js https://www.learn-js.org/ 
 - Algo expert for practing job interview questiions https://www.algoexpert.io/
-- 
 
 ## HTML-STUFF!
 * Html image stuff https://htmlreference.io/element/source/
@@ -246,10 +242,67 @@ I will also be updating this repo Daily.
 * Free Web3 Courses https://cryptozombies.io/
 
 ## Ai-Sites
-* https://chat.openai.com/
-* https://www.copy.ai/
+* Ai text generator https://chat.openai.com/
+* Ai text generator https://www.copy.ai/
+* Ai Art Generator https://www.midjourney.com/ 
+* Ai Art Paid Generator https://www.facetuneapp.com/
+
+## NFT-Sites
+<h2>Data & Analytics Tools:</h2>
+
+* For general market data https://cryptoslam.io/
+* For open sea analitics https://dune.com/home
+* To see to see total number of sales and value of transactions https://nonfungible.com/
+* For Trending Collections https://hyperspace.xyz/
+
+<h2>Market Analytics::</h2>
+
+* Trending NFT collections https://icy.tools/
+* Paid Site https://www.nansen.ai/
+
+<h2>Flips Finance:</h2>
+
+* https://wgmi.io/
+
+<h2>Release Calendars:</h2>
+ 
+* NFT Scoring: https://nftscoring.com/upcoming
+* Minty Score: https://mintyscore.com/rankings/projects
+* NFTGO: https://nftgo.io/nft-drops
+* Rarity Tools: https://rarity.tools/upcoming/
+* NFT Catcher: https://www.nftcatcher.io/drops
+* NFT Calendar: https://nftcalendar.io/
+* HowRare Is: https://howrare.is/drops
+
+<h2>Mint Scanners:</h2>
+
+* What sminting Live: https://whatsminting.live/
+* Moby GG: https://moby.gg/
+* Icy Tools: https://icy.tools/discover
+* Nansen: https://www.nansen.ai/
+* https://solscan.io/
+
+<h2>Sniping Tools:</h2>
+
+* Genie: https://www.genie.xyz/
+* Gem: https://www.gem.xyz/
+* Sunspot: https://sunspot.gg/
+* NFT Monitors: https://discord.gg/hzjjhktejr
+
+## Trading-sites
+
+* Coin Market Cap https://coinmarketcap.com/
+* A Multi chart Site https://www.multicoincharts.com/
+* Crypto Tax https://coinledger.io/?fpr=tony59 
+* Live Coin Watch https://www.livecoinwatch.com/price/Flare-FLR
+* Real Time Crypto News Site https://cryptopanic.com/
+* Technical analysis platform https://www.tradinglite.com/
 
 ## Other-Stuff! 
+* A Handy tool for tailwind components https://github.com/kiliman/tailwindui-crawler
+* A Handy read me profile generator for your github profile page https://rahuldkjain.github.io/gh-profile-readme-generator/
+* Learn more about commit messages https://gist.github.com/robertpainsi/b632364184e70900af4ab688decf6f53
+* How to write better commits https://www.freecodecamp.org/news/how-to-write-better-git-commit-messages/
 * learn how discord bots work https://www.writebots.com/ 
 * A free photo editor https://www.inpixio.com/free-photo-editor/
 * Anijs https://anijs.github.io/
@@ -260,6 +313,8 @@ I will also be updating this repo Daily.
 * Jh3y https://github.com/jh3y/whirl 
 * AnimXYZ https://animxyz.com/ 
 * For youtube thumbnails https://www.canva.com/
+* For Ai Generated thumbnails https://thumbnailtest.com/ (Monthly Paments )
+* A Tool to Auto Upload your videos https://clipbot.tv/ (Monthly Paments )
 
 ## Ethical-hacking
 * Null Byte also on youtube great tutorials https://null-byte.wonderhowto.com/
