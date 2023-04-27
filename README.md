@@ -11,6 +11,8 @@ I will also be updating this repo Daily.
 <li><a href="#Streaming-setup">Streaming-setup</li>
 <li><a href="#Web-Dev-stuff">Web-dev-stuff</li>
 <li><a href="#Website-Dev-Sites">Website-Dev-Sites</li>
+<li><a href="#Useful-web3-stuff">Useful Web3 Stuff</li>
+<li><a href="#Ai-Sites">Ai Sites</li>
 <li><a href="#Other-Stuff">Other-Stuff</li>
 <li><a href="#Ethical-hacking">Ethical-hacking</li>
 <li><a href="#Favourite-NPM-Packages">Favourite-NPM-Packages</li>
@@ -19,7 +21,7 @@ I will also be updating this repo Daily.
 - For checking responsiveness on all devices http://ami.responsivedesign.is/
 - Github docs https://docs.gitlab.com/
 - Figma https://www.figma.com/ ( For UI and UX design )
-- Git Lab https://lab.github.com/ ( For learning how to use github )
+- Git Lab https://about.gitlab.com/ ( For learning how to use github )
 - Brilliant a great learning site https://brilliant.org/courses/ ( For full benifits pay 10 per month )
 - Notion A task managment software https://www.notion.so/desktop
 - Project managment site https://trello.com/ 
@@ -42,6 +44,7 @@ I will also be updating this repo Daily.
 - Heroku Alternative https://www.deta.sh/
 - Herkou Alternative https://qoddi.com/
 - Herkou Alternative https://www.cyclic.sh/
+- Hosting Platform for node js sites https://vercel.com/home
 
 ## Copyright-free-stuff!
 - Free images https://www.pexels.com/ 
@@ -96,6 +99,9 @@ I will also be updating this repo Daily.
 - For testing your streams fps https://inspector.twitch.tv/ 
 - Learning how to stream : https://streamersquare.com/courses/
 - Background music for streaming copy right free : https://www.soundstripe.com
+- Stream square I place to learn how streaming works https://streamersquare.com/
+
+
 
 
 ## Web-Dev-stuff
@@ -232,6 +238,16 @@ I will also be updating this repo Daily.
 ## Ui Components!
 * Tailwind Components https://tailwindui.com/!
 * Creative tim Components https://www.creative-tim.com!
+
+## Useful-Web3-Stuff
+* Build space an awesome free place to learn web3 tech for free https://buildspace.so/builds
+* Quick Node Blockchain Api's https://www.quicknode.com/
+* Alchemy web3 Api's https://www.alchemy.com/ 
+* Free Web3 Courses https://cryptozombies.io/
+
+## Ai-Sites
+* https://chat.openai.com/
+* https://www.copy.ai/
 
 ## Other-Stuff! 
 * learn how discord bots work https://www.writebots.com/ 
