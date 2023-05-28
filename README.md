@@ -13,6 +13,7 @@ I will also be updating this repo Daily.
 <li><a href="#Website-Dev-Sites">Website-Dev-Sites</li>
 <li><a href="#Useful-web3-stuff">Useful Web3 Stuff</li>
 <li><a href="#Ai-Sites">Ai Sites</li>
+<li><a href="#NFT-Sites">NFT Sites</li>
 <li><a href="#Other-Stuff">Other-Stuff</li>
 <li><a href="#Ethical-hacking">Ethical-hacking</li>
 <li><a href="#Favourite-NPM-Packages">Favourite-NPM-Packages</li>
@@ -230,10 +231,16 @@ I will also be updating this repo Daily.
 * Typed js https://mattboldt.com/demos/typed-js/
 * Progress bar js https://kimmobrunfeldt.github.io/progressbar.js/
 * Js Game Libraries https://github.com/collections/javascript-game-engines
+* thejsway chapter-06 https://github.com/thejsway/thejsway/blob/master/manuscript/chapter06.md
+* thejsway chapter-07 https://github.com/thejsway/thejsway/blob/master/manuscript/chapter07.md 
+* Array Methods https://javascript.info/array-methods 
+
 
 ## Ui Components!
 * Tailwind Components https://tailwindui.com/!
 * Creative tim Components https://www.creative-tim.com!
+* TailGrids Components https://tailgrids.com/
+* Flowbite components https://flowbite.com/blocks/
 
 ## Useful-Web3-Stuff
 * Build space an awesome free place to learn web3 tech for free https://buildspace.so/builds
