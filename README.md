@@ -133,6 +133,7 @@ I will also be updating this repo Daily.
 - Check list for frontend stuff https://frontendchecklist.io/
 - Template read me site for all your github readme files https://readme.so/
 - Npm name guesser game https://npmpm.com/game made by CMGriffing
+- Website components https://uiverse.io/
 
 ## Favourite-NPM-Packages
 - Particlesjs https://github.com/matteobruni/tsparticles/tree/main/components/react
@@ -234,6 +235,7 @@ I will also be updating this repo Daily.
 * thejsway chapter-06 https://github.com/thejsway/thejsway/blob/master/manuscript/chapter06.md
 * thejsway chapter-07 https://github.com/thejsway/thejsway/blob/master/manuscript/chapter07.md 
 * Array Methods https://javascript.info/array-methods 
+* 30 Day Vanilla JS Coding Challenge https://javascript30.com/
 
 
 ## Ui Components!
