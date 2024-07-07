@@ -33,7 +33,7 @@ I will also be updating this repo Daily.
 - More explinations for code https://www.w3schools.com/ 
 - Another learning platform https://www.udacity.com/
 - A coding game https://www.codingame.com/start 
-- For designers to post their art work https://www.deviantart.com/ 
+- For designers to post their art work https://www.deviantart.com/
 - Check if a website is safe or not https://www.virustotal.com/gui/home/upload
 - Golang https://golang.org/
 - art portraits for your avatar or real picture https://covatar.com/
@@ -63,7 +63,7 @@ I will also be updating this repo Daily.
 - Free Images https://pikwizard.com/
 - Free Images https://stocksnap.io/
 - Free stock music https://www.free-stock-music.com/
-- Copyright free music for streaming copy right free : https://www.soundstripe.com
+- Copyright free music for streaming + YT copy right free : https://www.soundstripe.com
 - Free music https://www.bensound.com/ 
 - Free stock music https://mixkit.co/free-stock-music/ 
 - Free music https://freemusicarchive.org/ / 
@@ -87,7 +87,7 @@ I will also be updating this repo Daily.
 - Free images https://www.heritagetype.com/pages/free-vintage-illustrations 
 - Free images https://robohash.org/ 
 - Free images https://tabbied.com/
-- Free images https://app.haikei.app/ 
+- Free images https://app.haikei.app/
 
 ## Streaming-setup!
 - Twitch alerts & Streaming https://streamelements.com/
@@ -112,7 +112,6 @@ I will also be updating this repo Daily.
 - Laracast https://laracasts.com/ ( A Free learning site for laravel )
 - Vue Mastery https://www.vuemastery.com/ ( A free learning site for learning Vue js )
 - Code Accademy https://www.codecademy.com/ ( subscription paid learning )
-- Code Institute https://codeinstitute.net/full-stack-software-development-diploma/ ( A Paid full stack Diploma Course ) 
 - Team Treehouse https://teamtreehouse.com/ ( A Monthly Subscription for learning to code )
 - Coder dojo Full Stack boot camp in 14 weeks https://www.codingdojo.com/online-coding-bootcamp-full-time
 - For learning javascript effects https://threejs.org/
@@ -134,6 +133,7 @@ I will also be updating this repo Daily.
 - Template read me site for all your github readme files https://readme.so/
 - Npm name guesser game https://npmpm.com/game made by CMGriffing
 - Website components https://uiverse.io/
+- FOr Learning php full stack https://laracasts.com/path
 
 ## Favourite-NPM-Packages
 - Particlesjs https://github.com/matteobruni/tsparticles/tree/main/components/react
