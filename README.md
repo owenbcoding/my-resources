@@ -69,7 +69,7 @@ I will also be updating this repo Daily.
 - Free music https://freemusicarchive.org/ / 
 - Free vector art https://www.vecteezy.com/   
 - Free images https://www.freepik.com/
-- Free images https://www.freevectors.net/ 
+- Free images https://www.freevectors.net/
 - Free images https://pngtree.com/free-vectors 
 - Free images https://www.vector4free.com/ 
 - Free images https://lukaszadam.com/ 
@@ -129,7 +129,7 @@ I will also be updating this repo Daily.
 - Useful place holder images for mock up sites illustrations https://undraw.co/
 - For UI/UX Design stuff https://course-ui-ux.creative-tim.com/course/ux-design-fundamentals?ref=ct-info&_ga=2.193514030.20498301.1655753785-843460831.1655753785
 - Mark down syntax https://intra.kth.se/en/administration/kommunikation/webb/applikationer/formularhantering/markdown-syntax-1.701701
-- For color Gradients https://www.grabient.com 
+- For color Gradients https://www.grabient.com
 - Check list for frontend stuff https://frontendchecklist.io/
 - Template read me site for all your github readme files https://readme.so/
 - Npm name guesser game https://npmpm.com/game made by CMGriffing
@@ -236,13 +236,16 @@ I will also be updating this repo Daily.
 * thejsway chapter-07 https://github.com/thejsway/thejsway/blob/master/manuscript/chapter07.md 
 * Array Methods https://javascript.info/array-methods 
 * 30 Day Vanilla JS Coding Challenge https://javascript30.com/
-
+* Interiajs https://inertiajs.com/
+* Jeststream Laravel https://jetstream.laravel.com/introduction.html
+* livewire https://livewire.laravel.com/
 
 ## Ui Components!
 * Tailwind Components https://tailwindui.com/!
 * Creative tim Components https://www.creative-tim.com!
 * TailGrids Components https://tailgrids.com/
 * Flowbite components https://flowbite.com/blocks/
+* Material Tailwind https://www.material-tailwind.com/
 
 ## Useful-Web3-Stuff
 * Build space an awesome free place to learn web3 tech for free https://buildspace.so/builds
@@ -255,6 +258,8 @@ I will also be updating this repo Daily.
 * Ai text generator https://www.copy.ai/
 * Ai Art Generator https://www.midjourney.com/ 
 * Ai Art Paid Generator https://www.facetuneapp.com/
+* Ai humanizer generator https://www.kipper.ai/
+
 
 ## NFT-Sites
 <h2>Data & Analytics Tools:</h2>
