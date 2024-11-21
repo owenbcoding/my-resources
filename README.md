@@ -11,9 +11,7 @@ I will also be updating this repo Daily.
 <li><a href="#Streaming-setup">Streaming-setup</li>
 <li><a href="#Web-Dev-stuff">Web-dev-stuff</li>
 <li><a href="#Website-Dev-Sites">Website-Dev-Sites</li>
-<li><a href="#Useful-web3-stuff">Useful Web3 Stuff</li>
 <li><a href="#Ai-Sites">Ai Sites</li>
-<li><a href="#NFT-Sites">NFT Sites</li>
 <li><a href="#Other-Stuff">Other-Stuff</li>
 <li><a href="#Ethical-hacking">Ethical-hacking</li>
 <li><a href="#Favourite-NPM-Packages">Favourite-NPM-Packages</li>
@@ -246,12 +244,7 @@ I will also be updating this repo Daily.
 * TailGrids Components https://tailgrids.com/
 * Flowbite components https://flowbite.com/blocks/
 * Material Tailwind https://www.material-tailwind.com/
-
-## Useful-Web3-Stuff
-* Build space an awesome free place to learn web3 tech for free https://buildspace.so/builds
-* Quick Node Blockchain Api's https://www.quicknode.com/
-* Alchemy web3 Api's https://www.alchemy.com/ 
-* Free Web3 Courses https://cryptozombies.io/
+* Prime UI for vue https://primevue.org/
 
 ## Ai-Sites
 * Ai text generator https://chat.openai.com/
@@ -259,58 +252,6 @@ I will also be updating this repo Daily.
 * Ai Art Generator https://www.midjourney.com/ 
 * Ai Art Paid Generator https://www.facetuneapp.com/
 * Ai humanizer generator https://www.kipper.ai/
-
-
-## NFT-Sites
-<h2>Data & Analytics Tools:</h2>
-
-* For general market data https://cryptoslam.io/
-* For open sea analitics https://dune.com/home
-* To see to see total number of sales and value of transactions https://nonfungible.com/
-* For Trending Collections https://hyperspace.xyz/
-
-<h2>Market Analytics::</h2>
-
-* Trending NFT collections https://icy.tools/
-* Paid Site https://www.nansen.ai/
-
-<h2>Flips Finance:</h2>
-
-* https://wgmi.io/
-
-<h2>Release Calendars:</h2>
- 
-* NFT Scoring: https://nftscoring.com/upcoming
-* Minty Score: https://mintyscore.com/rankings/projects
-* NFTGO: https://nftgo.io/nft-drops
-* Rarity Tools: https://rarity.tools/upcoming/
-* NFT Catcher: https://www.nftcatcher.io/drops
-* NFT Calendar: https://nftcalendar.io/
-* HowRare Is: https://howrare.is/drops
-
-<h2>Mint Scanners:</h2>
-
-* What sminting Live: https://whatsminting.live/
-* Moby GG: https://moby.gg/
-* Icy Tools: https://icy.tools/discover
-* Nansen: https://www.nansen.ai/
-* https://solscan.io/
-
-<h2>Sniping Tools:</h2>
-
-* Genie: https://www.genie.xyz/
-* Gem: https://www.gem.xyz/
-* Sunspot: https://sunspot.gg/
-* NFT Monitors: https://discord.gg/hzjjhktejr
-
-## Trading-sites
-
-* Coin Market Cap https://coinmarketcap.com/
-* A Multi chart Site https://www.multicoincharts.com/
-* Crypto Tax https://coinledger.io/?fpr=tony59 
-* Live Coin Watch https://www.livecoinwatch.com/price/Flare-FLR
-* Real Time Crypto News Site https://cryptopanic.com/
-* Technical analysis platform https://www.tradinglite.com/
 
 ## Other-Stuff! 
 * A Handy tool for tailwind components https://github.com/kiliman/tailwindui-crawler
