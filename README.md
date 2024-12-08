@@ -6,7 +6,7 @@ But there are lots of stuff you can pay for also for thats not that expensive.
 I will also be updating this repo Daily. 
 
 # Table of Context 
-<li><a href="#Useful-websites">Useful-websites</li>
+<li><a href="#Useful-Sites">Useful-Sites</li>
 <li><a href="#Copyright-free-stuff">Copyright-free-stuff</li>
 <li><a href="#Streaming-Stuff">Streaming-Stuff</li>
 <li><a href="#Web-Dev-stuff">Web-dev-stuff</li>
