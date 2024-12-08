@@ -248,7 +248,7 @@ will also be updating this repo Daily
 * Material Tailwind https://www.material-tailwind.com/
 * Prime UI for vue https://primevue.org/
 
-## Ai-Suff
+## Ai-Stuff
 * Ai text generator https://chat.openai.com/
 * Ai text generator https://www.copy.ai/
 * Ai Art Generator https://www.midjourney.com/ 
