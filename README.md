@@ -8,12 +8,17 @@ I will also be updating this repo Daily.
 # Table of Context 
 <li><a href="#Useful-websites">Useful-websites</li>
 <li><a href="#Copyright-free-stuff">Copyright-free-stuff</li>
-<li><a href="#Streaming-setup">Streaming-setup</li>
+<li><a href="#Streaming-Stuff">Streaming-Stuff</li>
 <li><a href="#Web-Dev-stuff">Web-dev-stuff</li>
+<li><a href="#NPM-Packages">NPM-Packages</a></li>
+<li><a href="#Learning-exercises">Learning-exercises</a></li>
+<li><a href="#HTML-Stuff">Html-stuff</a></li>
+<li><a href="#CSS">CSS-Stuff</a></li>
+<li><a href="#Javascript-Stuff">Javascript-Stuff</a></li>
+<li><a href="Ui-Components">Ui-Components</a></li>
 <li><a href="#Ai-Stuff">Ai Stuff</li>
 <li><a href="#Other-Stuff">Other-Stuff</li>
 <li><a href="#Cyber-Security">Cyber-Security</li>
-<li><a href="#Favourite-NPM-Packages">Favourite-NPM-Packages</li>
 
 ## Useful-websites!
 - For checking responsiveness on all devices http://ami.responsivedesign.is/
@@ -86,7 +91,7 @@ I will also be updating this repo Daily.
 - Free images https://tabbied.com/
 - Free images https://app.haikei.app/
 
-## Streaming-setup!
+## Streaming-Stuff
 - Twitch alerts & Streaming https://streamelements.com/
 - Copyright Free music for streaming youtube etc https://www.soundstripe.com/ 10/month 
 - Stream Bitrate Set up for OBS https://blog.mobcrush.com/how-to-choose-the-right-bitrate-for-your-stream-9864ce322a9b 
@@ -132,14 +137,14 @@ I will also be updating this repo Daily.
 - Website components https://uiverse.io/
 - FOr Learning php full stack https://laracasts.com/path
 
-## Favourite-NPM-Packages
+## NPM-Packages
 - Particlesjs https://github.com/matteobruni/tsparticles/tree/main/components/react
 - Particlesjs JSon export https://particles.js.org/
 - Figlet package https://www.npmjs.com/package/figlet For terminal stuff
 - Tilt package https://www.npmjs.com/package/matrix-rain
 - Matrix package https://www.npmjs.com/package/matrix-rain
 
-## Online-Text-Eeditors!
+## Online-Eeditors!
 - Replit a online Browser text editor https://replit.com/ 
 - Codeply HTML - CSS & Js Editor https://www.codeply.com/
 - Code Sand box A browser text editor https://codesandbox.io/
@@ -170,7 +175,7 @@ I will also be updating this repo Daily.
 * Flaticon https://www.flaticon.com/ 
 * A color picker https://colorpicker.fr/
 
-## CSS!
+## CSS-Stuff
 * CSS Tailwind CSS https://tailwindcss.com/
 * Css Tricks https://css-tricks.com/ 
 * Some CSS reources https://medium.com/level-up-web/100-css-resources-for-web-designers-and-developers-c060bed7a362 
