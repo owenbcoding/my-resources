@@ -20,7 +20,7 @@ I will also be updating this repo Daily.
 <li><a href="#Other-Stuff">Other-Stuff</li>
 <li><a href="#Cyber-Security">Cyber-Security</li>
 
-## Useful-websites!
+## Useful-Sites!
 - For checking responsiveness on all devices http://ami.responsivedesign.is/
 - Github docs https://docs.gitlab.com/
 - Figma https://www.figma.com/ ( For UI and UX design )
@@ -144,7 +144,7 @@ I will also be updating this repo Daily.
 - Tilt package https://www.npmjs.com/package/matrix-rain
 - Matrix package https://www.npmjs.com/package/matrix-rain
 
-## Online-Eeditors!
+## Online-Eeditors
 - Replit a online Browser text editor https://replit.com/ 
 - Codeply HTML - CSS & Js Editor https://www.codeply.com/
 - Code Sand box A browser text editor https://codesandbox.io/
@@ -152,13 +152,13 @@ I will also be updating this repo Daily.
 - A playground for practicing js https://jsbin.com/
 - A easy paste bin for code https://pastebin.com/
 
-## Learning-exercises!
+## Learning-exercises
 - For practicing your code https://www.hackerrank.com/
 - A Compeditive way to learn code with challeneges https://www.codewars.com/
 - Another website for learning js https://www.learn-js.org/ 
 - Algo expert for practing job interview questiions https://www.algoexpert.io/
 
-## HTML-STUFF!
+## HTML-STUFF
 * Html image stuff https://htmlreference.io/element/source/
 * More explinations for code https://www.w3schools.com/ 
 * A HTML Learning Site https://htmlg.com/html-editor/
@@ -255,7 +255,7 @@ I will also be updating this repo Daily.
 * Ai Art Paid Generator https://www.facetuneapp.com/
 * Ai humanizer generator https://www.kipper.ai/
 
-## Other-Stuff! 
+## Other-Stuff
 * A Handy tool for tailwind components https://github.com/kiliman/tailwindui-crawler
 * A Handy read me profile generator for your github profile page https://rahuldkjain.github.io/gh-profile-readme-generator/
 * Learn more about commit messages https://gist.github.com/robertpainsi/b632364184e70900af4ab688decf6f53
@@ -273,7 +273,7 @@ I will also be updating this repo Daily.
 * For Ai Generated thumbnails https://thumbnailtest.com/ (Monthly Paments )
 * A Tool to Auto Upload your videos https://clipbot.tv/ (Monthly Paments )
 
-## Ethical-hacking
+## Cyber-Security
 * Null Byte also on youtube great tutorials https://null-byte.wonderhowto.com/
 * If you want to learn the basics of I.T  https://tryhackme.com ( For full benifits pay 10 per month )
 * For more advanced hacking https://app.hackthebox.eu/
