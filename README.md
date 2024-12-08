@@ -140,8 +140,6 @@ I will also be updating this repo Daily.
 - Tilt package https://www.npmjs.com/package/matrix-rain
 - Matrix package https://www.npmjs.com/package/matrix-rain
 
-## Website-Dev-Sites!
-
 ## Online-Text-Eeditors!
 - Replit a online Browser text editor https://replit.com/ 
 - Codeply HTML - CSS & Js Editor https://www.codeply.com/
@@ -238,7 +236,7 @@ I will also be updating this repo Daily.
 * Jeststream Laravel https://jetstream.laravel.com/introduction.html
 * livewire https://livewire.laravel.com/
 
-## Ui Components!
+## Ui-Components
 * Tailwind Components https://tailwindui.com/!
 * Creative tim Components https://www.creative-tim.com!
 * TailGrids Components https://tailgrids.com/
@@ -246,7 +244,7 @@ I will also be updating this repo Daily.
 * Material Tailwind https://www.material-tailwind.com/
 * Prime UI for vue https://primevue.org/
 
-## Ai-Sites
+## Ai-Suff
 * Ai text generator https://chat.openai.com/
 * Ai text generator https://www.copy.ai/
 * Ai Art Generator https://www.midjourney.com/ 
