@@ -1,9 +1,9 @@
 # My-Resources
-This is a list of the websites I use on a daily bases.
-I made this list so I can share with fellow developers I hope you enjoy.
-I Try to look for as many free stuff as possible to help people who are strugeling.
-But there are lots of stuff you can pay for also for thats not that expensive.
-I will also be updating this repo Daily. 
+This is a list of the websites I use on a daily bases. I made this list so
+I can share with fellow developers I hope you enjoy. I Try to look for as
+many free stuff as possible to help people out. There
+are lots of stuff you can pay for also for thats not that expensive. I
+will also be updating this repo Daily
 
 # Table of Context 
 <li><a href="#Useful-Sites">Useful-Sites</li>
