@@ -10,7 +10,6 @@ I will also be updating this repo Daily.
 <li><a href="#Copyright-free-stuff">Copyright-free-stuff</li>
 <li><a href="#Streaming-setup">Streaming-setup</li>
 <li><a href="#Web-Dev-stuff">Web-dev-stuff</li>
-<li><a href="#Website-Dev-Sites">Website-Dev-Sites</li>
 <li><a href="#Ai-Stuff">Ai Stuff</li>
 <li><a href="#Other-Stuff">Other-Stuff</li>
 <li><a href="#Cyber-Security">Cyber-Security</li>
@@ -148,7 +147,7 @@ I will also be updating this repo Daily.
 - A playground for practicing js https://jsbin.com/
 - A easy paste bin for code https://pastebin.com/
 
-## Online-Learning-exercises!
+## Learning-exercises!
 - For practicing your code https://www.hackerrank.com/
 - A Compeditive way to learn code with challeneges https://www.codewars.com/
 - Another website for learning js https://www.learn-js.org/ 
