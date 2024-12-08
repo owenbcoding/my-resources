@@ -10,10 +10,9 @@ I will also be updating this repo Daily.
 <li><a href="#Copyright-free-stuff">Copyright-free-stuff</li>
 <li><a href="#Streaming-setup">Streaming-setup</li>
 <li><a href="#Web-Dev-stuff">Web-dev-stuff</li>
-<li><a href="#Website-Dev-Sites">Website-Dev-Sites</li>
-<li><a href="#Ai-Sites">Ai Sites</li>
+<li><a href="#Ai-Stuff">Ai Stuff</li>
 <li><a href="#Other-Stuff">Other-Stuff</li>
-<li><a href="#Ethical-hacking">Ethical-hacking</li>
+<li><a href="#Cyber-Security">Cyber-Security</li>
 <li><a href="#Favourite-NPM-Packages">Favourite-NPM-Packages</li>
 
 ## Useful-websites!
@@ -140,8 +139,6 @@ I will also be updating this repo Daily.
 - Tilt package https://www.npmjs.com/package/matrix-rain
 - Matrix package https://www.npmjs.com/package/matrix-rain
 
-## Website-Dev-Sites!
-
 ## Online-Text-Eeditors!
 - Replit a online Browser text editor https://replit.com/ 
 - Codeply HTML - CSS & Js Editor https://www.codeply.com/
@@ -150,7 +147,7 @@ I will also be updating this repo Daily.
 - A playground for practicing js https://jsbin.com/
 - A easy paste bin for code https://pastebin.com/
 
-## Online-Learning-exercises!
+## Learning-exercises!
 - For practicing your code https://www.hackerrank.com/
 - A Compeditive way to learn code with challeneges https://www.codewars.com/
 - Another website for learning js https://www.learn-js.org/ 
@@ -238,7 +235,7 @@ I will also be updating this repo Daily.
 * Jeststream Laravel https://jetstream.laravel.com/introduction.html
 * livewire https://livewire.laravel.com/
 
-## Ui Components!
+## Ui-Components
 * Tailwind Components https://tailwindui.com/!
 * Creative tim Components https://www.creative-tim.com!
 * TailGrids Components https://tailgrids.com/
@@ -246,7 +243,7 @@ I will also be updating this repo Daily.
 * Material Tailwind https://www.material-tailwind.com/
 * Prime UI for vue https://primevue.org/
 
-## Ai-Sites
+## Ai-Suff
 * Ai text generator https://chat.openai.com/
 * Ai text generator https://www.copy.ai/
 * Ai Art Generator https://www.midjourney.com/ 
