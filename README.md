@@ -1,9 +1,9 @@
 # My-Resources
-This is a list of the websites I use on a daily bases.
-I made this list so I can share with fellow developers I hope you enjoy.
-I Try to look for as many free stuff as possible to help people who are strugeling.
-But there are lots of stuff you can pay for also for thats not that expensive.
-I will also be updating this repo Daily. 
+This is a list of the websites I use on a daily bases. I made this list so
+I can share with fellow developers I hope you enjoy. I Try to look for as
+many free stuff as possible to help people out. There
+are lots of stuff you can pay for also for thats not that expensive. I
+will also be updating this repo Daily
 
 # Table of Context 
 <li><a href="#Useful-Sites">Useful-Sites</li>
@@ -11,12 +11,13 @@ I will also be updating this repo Daily.
 <li><a href="#Streaming-Stuff">Streaming-Stuff</li>
 <li><a href="#Web-Dev-stuff">Web-dev-stuff</li>
 <li><a href="#NPM-Packages">NPM-Packages</a></li>
+<li><a href="#Online-Editors">Online-Editors</a>></li>
 <li><a href="#Learning-exercises">Learning-exercises</a></li>
 <li><a href="#HTML-Stuff">Html-stuff</a></li>
 <li><a href="#CSS">CSS-Stuff</a></li>
 <li><a href="#Javascript-Stuff">Javascript-Stuff</a></li>
 <li><a href="Ui-Components">Ui-Components</a></li>
-<li><a href="#Ai-Stuff">Ai Stuff</li>
+<li><a href="#Ai-Stuff">Ai-Stuff</li>
 <li><a href="#Other-Stuff">Other-Stuff</li>
 <li><a href="#Cyber-Security">Cyber-Security</li>
 
@@ -248,7 +249,7 @@ I will also be updating this repo Daily.
 * Material Tailwind https://www.material-tailwind.com/
 * Prime UI for vue https://primevue.org/
 
-## Ai-Suff
+## Ai-Stuff
 * Ai text generator https://chat.openai.com/
 * Ai text generator https://www.copy.ai/
 * Ai Art Generator https://www.midjourney.com/ 
