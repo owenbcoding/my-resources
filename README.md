@@ -11,9 +11,9 @@ I will also be updating this repo Daily.
 <li><a href="#Streaming-setup">Streaming-setup</li>
 <li><a href="#Web-Dev-stuff">Web-dev-stuff</li>
 <li><a href="#Website-Dev-Sites">Website-Dev-Sites</li>
-<li><a href="#Ai-Sites">Ai Sites</li>
+<li><a href="#Ai-Stuff">Ai Stuff</li>
 <li><a href="#Other-Stuff">Other-Stuff</li>
-<li><a href="#Ethical-hacking">Ethical-hacking</li>
+<li><a href="#Cyber-Security">Cyber-Security</li>
 <li><a href="#Favourite-NPM-Packages">Favourite-NPM-Packages</li>
 
 ## Useful-websites!
