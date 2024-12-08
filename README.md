@@ -16,7 +16,7 @@ will also be updating this repo Daily
 <li><a href="#CSS">CSS-Stuff</a></li>
 <li><a href="#Javascript-Stuff">Javascript-Stuff</a></li>
 <li><a href="Ui-Components">Ui-Components</a></li>
-<li><a href="#Ai-Stuff">Ai Stuff</li>
+<li><a href="#Ai-Stuff">Ai-Stuff</li>
 <li><a href="#Other-Stuff">Other-Stuff</li>
 <li><a href="#Cyber-Security">Cyber-Security</li>
 
