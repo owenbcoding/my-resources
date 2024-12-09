@@ -11,7 +11,7 @@ will also be updating this repo Daily
 <li><a href="#Streaming-Stuff">Streaming-Stuff</li>
 <li><a href="#Web-Dev-stuff">Web-dev-stuff</li>
 <li><a href="#NPM-Packages">NPM-Packages</a></li>
-<li><a href="#Online-Editors">Online-Editors</a>></li>
+<li><a href="#Online-Editors">Online-Editors</a></li>
 <li><a href="#Learning-exercises">Learning-exercises</a></li>
 <li><a href="#HTML-Stuff">Html-stuff</a></li>
 <li><a href="#CSS">CSS-Stuff</a></li>
@@ -52,9 +52,9 @@ will also be updating this repo Daily
 
 ## Copyright-free-stuff!
 - Free images https://www.pexels.com/ 
-- Free images / https://unsplash.com/ 
-- Free images / https://pixabay.com/
-- Free images / https://www.splitshire.com/
+- Free images https://unsplash.com/ 
+- Free images https://pixabay.com/
+- Free images https://www.splitshire.com/
 - Free Stock videos https://coverr.co/ 
 - Free Stock videos https://www.videezy.com/ 
 - Free Stock videos https://www.lifeofvids.com/ 
