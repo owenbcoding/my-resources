@@ -6,6 +6,10 @@ body {
   background-color: #f5f5f5;
 }
 
+summary { 
+  text-align: center;
+}
+
 .section {
   background-color: #fff;
   border-radius: 8px;
@@ -21,3 +25,90 @@ body {
 .section p {
   margin: 4px 0;
 }
+
+  h1 { text-align: center; margin-bottom: 1.5rem; font-size: 2rem; color: #222; }
+
+     /* Table of Contents - dynamic 6+ columns */
+    .context {
+      margin-bottom: 2rem;
+    }
+    .context h2 {
+      font-size: 1.5rem;
+      margin-bottom: 0.5rem;
+      text-align: center;
+    }
+    .context .context-grid {
+      display: grid;
+      grid-template-columns: repeat(6, 1fr);
+      gap: 0.5rem 1rem;
+    }
+    .context .context-grid p {
+      margin: 0;
+      background-color: #fff;
+      padding: 0.5rem;
+      border-radius: 4px;
+      text-align: center;
+      box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+    }
+
+    /* Responsive: reduce columns on narrower screens */
+    @media (max-width: 1200px) {
+      .context .context-grid { grid-template-columns: repeat(4, 1fr); }
+    }
+    @media (max-width: 800px) {
+      .context .context-grid { grid-template-columns: repeat(3, 1fr); }
+    }
+    @media (max-width: 500px) {
+      .context .context-grid { grid-template-columns: repeat(2, 1fr); }
+    }
+
+
+    /* Category dropdown cards */
+    .categories { display: flex; flex-wrap: wrap; gap: 1rem; margin-bottom: 2rem; }
+    .category-card { background: #fff; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); flex: 1 1 200px; overflow: hidden; }
+    .category-card details ul {
+      padding-left: 0;
+      list-style-position: inside;
+    }
+    details { padding: 1rem; }
+    details summary { font-weight: bold; cursor: pointer; outline: none; list-style: none; }
+    details[open] summary { color: #0056b3; }
+    details ul { margin-top: 0.5rem; list-style: none; }
+    details ul li { margin: 0.5rem 0; }
+    details ul li a { text-decoration: none; color: blue; }
+    details ul li a:hover { text-decoration: underline; }
+
+    /* Grid container */
+    .grid-container { display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap: 1rem; }
+
+    .card { background: #fff; border-radius: 8px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); transition: transform 0.2s, box-shadow 0.2s; overflow: hidden; }
+    .card a { display: block; padding: 1rem; text-decoration: none; color: inherit; }
+    .card:hover { transform: translateY(-4px); box-shadow: 0 4px 8px rgba(0,0,0,0.15); }
+    .card-title { font-size: 1.1rem; margin-bottom: 0.5rem; font-weight: bold; }
+    .card-desc { font-size: 0.9rem; color: #666; }
+
+    @media (max-width: 600px) {
+      .grid-container { grid-template-columns: repeat(auto-fill, minmax(150px,1fr)); }
+    }
+  
+    .about { 
+      text-align: center;
+    }
+
+    .about-description { 
+      width: 1000px;
+      margin: 0 auto;
+    }
+    
+    ul { 
+      list-style-type: none;
+      text-decoration: none;
+    }
+
+    .context { 
+      text-align: center;
+    }
+
+    .link-info { 
+      text-align: center;
+    }
