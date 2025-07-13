@@ -286,3 +286,38 @@ will also be updating this repo Daily
 * More hacking resources https://inventory.raw.pm/resources.html 
 * Hacking Challenges https://potatopla.net/crypto/ 
 
+
+## Source HTML
+```html
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="My handy compiled list of resources" />
+    <title>My-Resources</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+        <h1>
+        ⭐ This <a href="https://github.com/owenbcoding/my-resources">Repo!</a>
+        </h1>
+        <!-- content truncated for brevity -->
+  </body>
+</html>
+```
+
+## Source CSS
+```css
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  margin: 0;
+  padding: 20px;
+  background-color: #f5f5f5;
+}
+summary {
+  text-align: center;
+}
+/* rest of CSS omitted for brevity */
+```
